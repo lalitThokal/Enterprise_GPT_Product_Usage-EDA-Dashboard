@@ -1,16 +1,17 @@
-# Enterprise_GPT_Product_Usage-EDA-Dashboard
+ # Enterprise_GPT_Product_Usage-EDA-Dashboard
 This repository contains the Python code for Exploratory Data Analysis (EDA) and a Power BI dashboard for a Gen AI company. It includes data cleaning, analysis, and visualizations, offering insights on customer interactions, query response times, and more, with key business recommendations.
 
-**Exploratory Data Analysis**
+# Exploratory Data Analysis 
 
 import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib as mb
-# Loading the csv file using pandas
+
+**- Loading the csv file using pandas**
 df=pd.read_csv('Enterprise_GPT_Product_Usage_Dataset.csv')     
 
-# Showing top 5 rows of the dataset
+**-Showing top 5 rows of the dataset**
 df.head() 
 
 user_id	session_id	timestamp	interaction_type	query_length	response_time	user_rating	error_occurred	industry	location	subscription_level
