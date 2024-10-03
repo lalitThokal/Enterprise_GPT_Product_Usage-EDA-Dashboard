@@ -19,11 +19,11 @@ This project involves exploratory data analysis (EDA) and dashboard creation for
 - Provided recommendations based on insights derived from the data.
 
 # Repository Contents
-Enterprise_GPT_Product_Usage_Dataset.csv: The dataset used for analysis.
-EDA_analysis.ipynb: Jupyter Notebook containing the code for data analysis and cleaning.
-Power BI Dashboard: Contains the link to the interactive dashboard and screenshots of key visualizations.
+- Enterprise_GPT_Product_Usage_Dataset.csv: The dataset used for analysis.
+- EDA_analysis.ipynb: Jupyter Notebook containing the code for data analysis and cleaning.
+- Power BI Dashboard: Contains the link to the interactive dashboard and screenshots of key visualizations.
 
 # How to Use
-Download the files or clone the repository.
-Open the EDA_analysis.ipynb file to view the analysis.
-Access the Power BI dashboard using the provided link.
+- Download the files or clone the repository.
+- Open the EDA_analysis.ipynb file to view the analysis.
+- Access the Power BI dashboard using the provided link.
