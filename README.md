@@ -171,7 +171,7 @@ df.boxplot(column=['response_time'])
 <Axes: >
 
 
-**Exploratory Data Analysis (EDA) Summary:**
+****Exploratory Data Analysis (EDA) Summary:****
 
 1) Data Loading:
 Loaded the dataset using pandas and displayed the first few rows for an initial view of the structure.
