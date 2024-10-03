@@ -1,4 +1,3 @@
-# EDA and Dashboard Project
 
 # Project Overview
 This project involves exploratory data analysis (EDA) and dashboard creation for a Gen AI company offering an enterprise GPT product. The goal is to derive actionable business insights from the provided dataset, clean the data, and visualize key metrics using Power BI.
