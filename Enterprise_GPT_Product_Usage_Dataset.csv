@@ -1,0 +1,1001 @@
+﻿user_id,session_id,timestamp,interaction_type,query_length,response_time,user_rating,error_occurred,industry,location,subscription_level
+1,153,2/1/2024 17:51,feedback,90,2.228192576,1,FALSE,education,"North Laurafort, Djibouti",premium
+2,153,5/11/2024 3:48,feedback,90,2.902167797,3,TRUE,healthcare,"West Sarah, Belgium",enterprise
+3,103,5/6/2024 11:17,error,27,2.212646189,1,FALSE,finance,"Jonathonstad, Costa Rica",premium
+4,147,8/8/2024 16:32,error,33,1.090334566,2,TRUE,education,"Hensonview, Montserrat",enterprise
+5,148,7/4/2024 14:45,query,89,2.744270526,4,FALSE,finance,"Salazarport, Indonesia",enterprise
+6,169,3/4/2024 6:16,error,34,2.512694758,1,TRUE,healthcare,"Schmittfurt, Austria",free
+7,112,6/15/2024 6:40,error,30,2.120755172,3,TRUE,finance,"Kathleenchester, Ukraine",free
+8,116,8/24/2024 0:52,feedback,37,1.225580199,1,TRUE,education,"North Ericachester, Myanmar",free
+9,162,2/2/2024 13:27,feedback,81,2.186585227,5,FALSE,education,"South Allisonfort, Kyrgyz Republic",free
+10,106,3/15/2024 1:48,query,37,2.149226113,3,FALSE,finance,"Browntown, Rwanda",enterprise
+11,102,7/27/2024 15:46,feedback,84,2.649271486,3,TRUE,education,"Martinezberg, Malta",free
+12,174,5/25/2024 9:53,error,79,2.562093406,1,TRUE,finance,"Evansport, Latvia",enterprise
+13,111,1/29/2024 7:27,error,81,1.119716812,5,TRUE,healthcare,"East Gregory, Belarus",enterprise
+14,108,3/14/2024 7:00,query,92,1.302725796,3,TRUE,healthcare,"Christophertown, Central African Republic",premium
+15,146,4/5/2024 15:46,feedback,62,2.163284043,5,TRUE,education,"Lake Erik, Saint Barthelemy",premium
+16,175,8/4/2024 17:51,error,16,1.226718755,1,TRUE,finance,"Andersonstad, Paraguay",free
+17,118,7/8/2024 3:58,feedback,55,1.068557643,2,TRUE,education,"Port Daniellehaven, Dominican Republic",premium
+18,140,8/27/2024 23:18,error,33,2.954933546,3,FALSE,healthcare,"Williamborough, Gibraltar",premium
+19,119,1/26/2024 17:06,feedback,99,1.004007855,2,TRUE,finance,"Kevinstad, Russian Federation",free
+20,171,2/23/2024 17:57,query,60,2.473405165,3,FALSE,finance,"West Seanfort, Solomon Islands",enterprise
+21,103,7/16/2024 15:03,error,10,1.198829054,5,FALSE,finance,"West Jessica, Indonesia",premium
+22,117,9/3/2024 6:49,query,61,1.19676458,1,TRUE,education,"Lake Susan, Italy",premium
+23,130,6/15/2024 22:24,error,63,2.114505175,2,TRUE,healthcare,"Mooreview, Aruba",premium
+24,193,8/15/2024 19:46,error,33,2.004338786,5,FALSE,healthcare,"Christopherborough, Fiji",enterprise
+25,170,2/2/2024 10:38,error,65,1.155022199,4,FALSE,healthcare,"South Nathan, Bolivia",free
+26,158,1/18/2024 3:25,query,88,2.257813411,2,FALSE,education,"Cunninghamstad, Mexico",free
+27,153,3/30/2024 3:33,query,66,2.834596883,3,FALSE,healthcare,"Johnport, Congo",premium
+28,188,5/22/2024 22:07,feedback,65,2.887872975,4,TRUE,education,"Leefurt, French Southern Territories",enterprise
+29,147,2/22/2024 16:43,query,41,1.933717553,1,TRUE,finance,"West Donna, Somalia",premium
+30,113,6/18/2024 20:53,feedback,85,2.788446603,4,FALSE,healthcare,"Sanchezport, Costa Rica",premium
+31,131,7/3/2024 7:03,error,11,2.801262642,3,TRUE,healthcare,"Gutierrezmouth, Morocco",free
+32,145,5/31/2024 18:35,error,88,2.519828785,1,TRUE,finance,"Chrisport, Japan",free
+33,181,3/6/2024 13:04,query,26,1.796921312,2,FALSE,healthcare,"Thomasport, Nicaragua",free
+34,147,8/11/2024 23:05,feedback,44,2.480787935,2,TRUE,education,"Oscarside, Lao People's Democratic Republic",premium
+35,174,6/27/2024 13:09,query,37,1.084813871,5,TRUE,healthcare,"Lake Elizabeth, Guam",free
+36,191,2/6/2024 12:31,feedback,86,2.449730818,3,TRUE,education,"Alexanderberg, Papua New Guinea",premium
+37,103,1/14/2024 22:53,feedback,50,1.252253157,2,FALSE,healthcare,"Snyderbury, Cook Islands",enterprise
+38,155,2/11/2024 10:13,error,13,1.097451672,2,FALSE,healthcare,"Luisborough, Namibia",premium
+39,111,3/15/2024 11:12,query,26,1.683138075,3,TRUE,finance,"South David, Antarctica (the territory South of 60 deg S)",free
+40,191,6/16/2024 19:33,feedback,71,1.370858638,2,TRUE,finance,"West Allison, Netherlands",premium
+41,197,5/7/2024 16:54,query,29,2.343207139,1,FALSE,healthcare,"Andersonside, Djibouti",enterprise
+42,124,3/4/2024 11:11,query,34,2.888883159,5,FALSE,healthcare,"Port Russellside, Ethiopia",premium
+43,136,5/25/2024 16:26,error,42,1.907778006,1,FALSE,education,"Sherryfort, Anguilla",free
+44,160,8/24/2024 21:38,feedback,99,1.571451201,4,TRUE,education,"Wongfort, Gambia",enterprise
+45,162,3/29/2024 16:18,feedback,16,2.176522551,4,FALSE,education,"Lake Pattymouth, Mauritius",free
+46,112,2/16/2024 14:50,error,30,2.609681931,5,FALSE,finance,"Petersonfort, France",free
+47,127,7/12/2024 19:39,query,25,2.034982464,3,FALSE,education,"Robertberg, Denmark",premium
+48,150,2/2/2024 1:53,query,68,1.629263573,4,TRUE,healthcare,"Hintontown, Congo",premium
+49,107,1/27/2024 13:09,feedback,68,1.89411124,2,FALSE,finance,"Andreaton, Panama",enterprise
+50,153,2/6/2024 12:44,query,40,2.218258553,3,TRUE,education,"Derekstad, Palestinian Territory",enterprise
+51,153,4/30/2024 4:30,error,35,1.200770225,4,FALSE,finance,"Nicholasland, Vietnam",premium
+52,190,7/7/2024 23:22,feedback,94,2.207709851,1,FALSE,healthcare,"Port Gregoryberg, Vietnam",free
+53,137,1/17/2024 5:39,query,10,1.372576098,5,FALSE,healthcare,"South Mary, Wallis and Futuna",premium
+54,141,5/12/2024 19:42,error,17,1.189136516,4,FALSE,healthcare,"New Brianna, Sao Tome and Principe",premium
+55,105,8/21/2024 4:58,feedback,67,2.879059619,4,FALSE,finance,"Johnsonland, Norfolk Island",premium
+56,172,1/13/2024 5:50,error,34,1.151437951,4,TRUE,education,"Phamhaven, French Guiana",premium
+57,159,2/21/2024 15:14,query,86,1.291220133,5,TRUE,finance,"Lake Johnport, Heard Island and McDonald Islands",enterprise
+58,139,8/7/2024 8:04,feedback,29,1.707281623,2,FALSE,healthcare,"Port Michaelhaven, Congo",enterprise
+59,108,4/4/2024 16:25,feedback,29,1.778181233,3,FALSE,healthcare,"Christopherhaven, Ireland",free
+60,127,8/30/2024 2:54,query,12,1.042362425,1,FALSE,education,"North Hannah, Poland",premium
+61,119,4/30/2024 17:07,error,56,2.876289326,3,FALSE,healthcare,"Vincentfurt, Switzerland",enterprise
+62,126,1/3/2024 10:16,query,75,1.650440666,4,TRUE,finance,"Port Marissa, Malaysia",free
+63,168,8/3/2024 12:44,feedback,71,2.456245332,4,TRUE,education,"New Jessica, Jamaica",premium
+64,188,6/11/2024 8:19,feedback,39,1.350880219,1,FALSE,education,"Wilsonchester, Timor-Leste",premium
+65,121,8/8/2024 15:46,error,44,2.534895424,5,FALSE,healthcare,"Pamelafort, Gabon",free
+66,138,8/3/2024 15:52,query,73,1.095769712,1,FALSE,healthcare,"Port Coltonfort, Tonga",free
+67,121,4/9/2024 1:52,feedback,10,1.748145637,5,FALSE,finance,"East Jamesmouth, Liberia",free
+68,180,8/28/2024 3:51,feedback,62,2.292553022,3,TRUE,healthcare,"Hernandezview, Estonia",premium
+69,126,8/4/2024 11:24,error,36,1.139647353,1,FALSE,finance,"Foleyport, Senegal",enterprise
+70,102,1/30/2024 1:46,error,48,1.58277932,2,FALSE,healthcare,"North Valerieland, Andorra",free
+71,196,8/21/2024 19:46,error,43,1.002481725,4,FALSE,healthcare,"South Matthewburgh, Germany",free
+72,162,6/11/2024 21:37,feedback,32,1.073428752,1,FALSE,healthcare,"Kathrynview, Peru",enterprise
+73,152,5/3/2024 16:40,error,81,1.8387575,1,FALSE,finance,"Ryanstad, Vanuatu",free
+74,131,6/20/2024 7:42,query,90,1.289788604,2,TRUE,healthcare,"Phillipberg, Italy",free
+75,163,6/8/2024 12:26,error,37,2.763100178,2,FALSE,finance,"Morrisonchester, Guam",enterprise
+76,109,7/20/2024 14:34,query,98,1.62714364,5,TRUE,healthcare,"East Melissa, Philippines",premium
+77,143,4/17/2024 13:13,feedback,92,1.865771285,3,FALSE,education,"Jamesbury, Azerbaijan",enterprise
+78,119,1/28/2024 0:50,error,16,1.945830512,5,FALSE,healthcare,"South William, Reunion",enterprise
+79,161,8/12/2024 17:44,query,99,2.929455682,1,TRUE,healthcare,"Wilcoxborough, Belarus",free
+80,148,8/20/2024 1:51,error,97,1.311449917,4,FALSE,healthcare,"South Brianchester, Belgium",premium
+81,153,8/22/2024 17:14,error,98,2.371877249,4,FALSE,healthcare,"Lake James, Brazil",enterprise
+82,137,4/23/2024 1:58,query,65,2.982371006,2,FALSE,education,"Hurleybury, Turkmenistan",premium
+83,151,8/8/2024 7:27,feedback,81,2.980622162,4,TRUE,healthcare,"South Christinafort, Gibraltar",enterprise
+84,148,3/6/2024 6:25,feedback,44,2.374219514,3,TRUE,healthcare,"Costashire, Guinea",free
+85,158,6/9/2024 12:27,query,34,2.549255905,4,TRUE,education,"North Susanborough, Rwanda",premium
+86,129,2/25/2024 3:24,query,90,1.066659985,5,FALSE,healthcare,"West Joel, Saudi Arabia",premium
+87,158,3/17/2024 8:15,query,70,1.307276768,1,TRUE,healthcare,"Port Kelly, Kiribati",enterprise
+88,114,3/12/2024 17:41,feedback,86,1.897825018,1,TRUE,healthcare,"South Daniel, Germany",premium
+89,144,5/5/2024 11:51,error,12,1.190386152,3,FALSE,education,"East Jordan, South Africa",premium
+90,176,7/25/2024 3:17,feedback,33,1.989635653,3,TRUE,healthcare,"New Elizabeth, Dominican Republic",premium
+91,114,7/16/2024 12:23,feedback,39,1.079969317,5,FALSE,healthcare,"New John, Iran",free
+92,197,6/16/2024 18:14,query,48,1.708302021,1,TRUE,healthcare,"New Laurafort, Saint Martin",enterprise
+93,113,7/27/2024 7:29,feedback,10,2.848590229,5,FALSE,healthcare,"Port Ricky, Suriname",enterprise
+94,182,6/5/2024 0:48,feedback,98,1.937070274,4,FALSE,healthcare,"South Brianna, Sao Tome and Principe",enterprise
+95,105,1/2/2024 23:57,error,94,1.481245617,3,FALSE,education,"North Scottview, Lebanon",enterprise
+96,109,1/9/2024 0:38,feedback,60,2.054922076,4,FALSE,finance,"North Carol, Bahamas",enterprise
+97,159,5/12/2024 2:36,error,15,2.869168865,5,FALSE,finance,"West Robert, Bulgaria",enterprise
+98,182,5/13/2024 22:25,error,81,2.691080145,2,FALSE,education,"Dickersonberg, Tanzania",enterprise
+99,104,3/19/2024 2:21,feedback,69,2.099942599,5,FALSE,education,"North Shawn, Chile",free
+100,125,7/28/2024 22:34,feedback,92,2.75659042,3,FALSE,finance,"Michaelfort, Ghana",enterprise
+101,125,8/24/2024 3:58,error,68,1.367083697,5,TRUE,healthcare,"Lawsonmouth, Korea",free
+102,100,4/20/2024 6:56,feedback,89,1.010546572,4,TRUE,finance,"Port Georgebury, Central African Republic",enterprise
+103,185,3/3/2024 5:54,feedback,93,2.676085383,3,FALSE,finance,"Ashleymouth, Spain",enterprise
+104,133,3/27/2024 14:32,query,17,2.309271703,5,FALSE,education,"West Gailton, Guadeloupe",premium
+105,106,1/3/2024 23:42,query,32,2.080182343,5,TRUE,education,"Victoriafurt, Guinea-Bissau",enterprise
+106,153,2/27/2024 13:54,error,90,2.48342389,4,FALSE,healthcare,"East Patrick, Northern Mariana Islands",enterprise
+107,155,6/7/2024 7:27,error,28,2.517776055,5,TRUE,healthcare,"Thomasville, Poland",premium
+108,133,2/9/2024 13:26,feedback,52,1.374068781,4,TRUE,education,"Morseborough, Vietnam",free
+109,120,4/23/2024 7:47,error,29,1.675485792,3,FALSE,finance,"South Randallside, Chile",free
+110,155,8/6/2024 20:19,error,74,1.438448596,3,TRUE,education,"Port Codyview, Belgium",premium
+111,171,3/9/2024 22:25,query,99,2.165885336,4,FALSE,education,"Colestad, Lesotho",premium
+112,118,9/6/2024 4:02,error,49,2.328457815,1,FALSE,finance,"North Vincent, India",enterprise
+113,129,8/20/2024 1:06,query,98,2.687767443,4,FALSE,finance,"Bradfordberg, Senegal",enterprise
+114,172,1/19/2024 11:10,query,97,2.490623143,4,FALSE,education,"Andrewmouth, Greece",free
+115,121,1/25/2024 6:22,error,59,2.777398743,2,TRUE,healthcare,"West Sandra, Cape Verde",enterprise
+116,115,1/25/2024 10:46,query,60,1.286133134,4,FALSE,finance,"Rubiofort, Cuba",enterprise
+117,127,8/18/2024 11:51,query,71,2.436987853,2,TRUE,finance,"East Christopherton, Cameroon",premium
+118,108,2/8/2024 20:04,feedback,63,2.4369263,3,FALSE,finance,"Bakerside, Brunei Darussalam",enterprise
+119,140,5/14/2024 6:28,feedback,41,1.073024483,4,FALSE,education,"North Randy, Cyprus",enterprise
+120,162,6/1/2024 4:38,error,85,1.979213934,5,FALSE,healthcare,"East Nicole, Tokelau",premium
+121,109,8/3/2024 2:45,query,28,1.814223066,4,TRUE,healthcare,"Cynthiaville, Vietnam",enterprise
+122,119,9/7/2024 1:30,error,64,1.053177041,3,FALSE,education,"Raymondfurt, Comoros",premium
+123,104,7/15/2024 8:36,feedback,32,1.507473538,1,FALSE,education,"Ryanstad, Tuvalu",premium
+124,157,9/2/2024 1:01,error,81,2.436839484,4,TRUE,education,"Lake Ronaldfurt, Finland",premium
+125,160,3/14/2024 9:28,error,66,2.770704153,5,FALSE,finance,"Stevenland, Vanuatu",enterprise
+126,104,8/31/2024 0:57,query,86,2.182781014,4,FALSE,education,"South Allen, Moldova",premium
+127,167,1/20/2024 8:14,error,30,2.159564415,2,TRUE,healthcare,"Dakotaport, Nepal",free
+128,179,5/5/2024 3:50,feedback,29,1.543970992,5,TRUE,finance,"Davidport, China",enterprise
+129,107,1/9/2024 1:41,error,55,1.3698179,3,TRUE,finance,"West Josephton, Timor-Leste",free
+130,133,4/28/2024 1:15,query,22,1.128269762,1,TRUE,healthcare,"Jakefurt, Angola",enterprise
+131,122,5/18/2024 11:38,query,22,2.308897002,4,FALSE,education,"Trevinoshire, Syrian Arab Republic",free
+132,156,2/5/2024 6:26,query,10,1.54472724,2,FALSE,finance,"Adamston, Burkina Faso",enterprise
+133,126,1/13/2024 17:54,error,41,1.194216872,4,FALSE,finance,"Port Janetshire, Belarus",enterprise
+134,139,1/2/2024 13:10,error,44,1.820901482,1,TRUE,education,"Lake Christopherstad, Zimbabwe",free
+135,156,5/30/2024 0:28,query,55,1.439282657,1,TRUE,finance,"Roberthaven, Ireland",enterprise
+136,112,3/15/2024 3:22,error,99,2.299253978,4,TRUE,education,"Port Staceymouth, Vietnam",free
+137,172,1/7/2024 20:50,query,88,1.787222232,1,TRUE,healthcare,"Stephenborough, Bahrain",free
+138,164,8/1/2024 6:15,error,79,1.636024607,4,FALSE,finance,"Ianmouth, Bangladesh",enterprise
+139,191,5/4/2024 23:02,feedback,39,1.59067869,4,TRUE,healthcare,"New Josephton, Dominica",free
+140,160,3/23/2024 21:17,error,46,1.868737381,4,TRUE,finance,"Port Amy, Mongolia",enterprise
+141,177,3/1/2024 18:01,query,60,1.005953993,1,TRUE,finance,"Nicolefort, Lithuania",free
+142,152,6/5/2024 1:51,feedback,36,2.237239111,2,FALSE,education,"New Michael, Portugal",enterprise
+143,138,1/25/2024 22:24,query,51,1.42401051,5,FALSE,finance,"South Elijahport, Marshall Islands",free
+144,117,1/3/2024 19:09,feedback,96,1.215038825,4,TRUE,education,"West Candace, Trinidad and Tobago",premium
+145,130,8/7/2024 7:59,query,22,2.59756784,4,TRUE,finance,"Port Lawrencefort, Argentina",enterprise
+146,152,3/12/2024 12:54,error,64,2.991319632,4,FALSE,healthcare,"Scottfurt, Kenya",enterprise
+147,181,1/23/2024 3:04,query,24,1.494203984,5,FALSE,finance,"Gonzalezton, Nauru",premium
+148,123,5/7/2024 6:05,error,34,1.88717749,1,FALSE,healthcare,"South Melissastad, Tokelau",premium
+149,132,4/14/2024 0:31,query,78,2.248312604,2,TRUE,healthcare,"Camachostad, Slovakia (Slovak Republic)",premium
+150,177,7/18/2024 13:17,feedback,59,2.948606854,5,FALSE,healthcare,"South Debra, Australia",free
+151,168,9/8/2024 13:25,query,17,1.058999093,5,FALSE,education,"Lake Deborah, Singapore",enterprise
+152,135,6/30/2024 11:06,query,14,1.755598118,5,TRUE,healthcare,"South Connieview, Slovakia (Slovak Republic)",enterprise
+153,144,1/21/2024 1:48,query,56,2.695015603,5,TRUE,healthcare,"New Lori, Indonesia",enterprise
+154,198,1/20/2024 7:56,error,97,2.61463826,1,FALSE,finance,"Ericachester, Uganda",enterprise
+155,148,9/4/2024 16:44,error,16,1.891427534,3,FALSE,healthcare,"East Joshuatown, Finland",premium
+156,198,3/10/2024 3:56,error,81,1.641847669,2,TRUE,healthcare,"South Martinhaven, Suriname",premium
+157,184,6/23/2024 5:43,feedback,19,2.16668163,5,FALSE,healthcare,"Wrightfort, Korea",free
+158,167,2/19/2024 18:37,error,62,2.926332127,5,FALSE,healthcare,"Reedburgh, United States Minor Outlying Islands",premium
+159,128,7/19/2024 4:18,error,69,1.612457434,1,FALSE,healthcare,"New Eddieview, Burkina Faso",enterprise
+160,177,6/6/2024 14:11,query,44,2.246635202,3,TRUE,finance,"New Jeffrey, Belize",premium
+161,175,2/10/2024 7:55,query,90,1.666566618,1,TRUE,education,"Jacobchester, Gabon",free
+162,151,5/5/2024 20:03,feedback,67,2.713486103,3,TRUE,healthcare,"South Felicia, India",premium
+163,148,4/2/2024 20:32,query,30,1.014616342,3,FALSE,healthcare,"Madisonville, Estonia",enterprise
+164,139,1/23/2024 10:01,query,19,1.510231803,5,FALSE,finance,"East Adam, Malta",enterprise
+165,169,5/17/2024 7:32,feedback,23,2.257110734,5,TRUE,finance,"North Dianaborough, Pakistan",premium
+166,193,4/7/2024 13:24,feedback,37,1.153937764,2,FALSE,healthcare,"Lake Daniel, Brunei Darussalam",enterprise
+167,150,1/1/2024 4:05,feedback,10,2.108550314,4,FALSE,healthcare,"East Billy, Kuwait",enterprise
+168,153,6/30/2024 22:34,query,76,1.280225086,4,FALSE,healthcare,"New Mary, Trinidad and Tobago",free
+169,115,6/17/2024 21:55,error,84,1.087988158,2,FALSE,finance,"Schneidermouth, Iceland",premium
+170,136,3/20/2024 19:52,query,15,2.007004367,2,FALSE,finance,"Port Michaelhaven, Bahamas",premium
+171,130,7/15/2024 0:38,feedback,65,1.264798461,5,FALSE,finance,"Port Melinda, Cayman Islands",premium
+172,127,7/9/2024 21:41,error,42,1.31420748,5,FALSE,finance,"Mirandaburgh, Samoa",enterprise
+173,164,3/25/2024 10:53,query,81,1.706803023,3,TRUE,finance,"Steventon, Czech Republic",free
+174,183,4/24/2024 15:25,feedback,77,1.846627198,4,FALSE,education,"New Kevinchester, Maldives",free
+175,108,1/25/2024 9:09,query,66,2.885825566,3,FALSE,finance,"West Sherry, Lao People's Democratic Republic",free
+176,197,6/24/2024 10:12,feedback,45,1.408689792,2,FALSE,education,"Port Matthewside, Antigua and Barbuda",enterprise
+177,142,3/28/2024 10:13,error,81,2.07458739,1,TRUE,education,"West Belinda, Bhutan",premium
+178,112,8/30/2024 12:37,feedback,19,2.781773579,5,FALSE,education,"Pricestad, Botswana",enterprise
+179,121,5/14/2024 3:18,feedback,23,1.036855455,4,TRUE,finance,"Catherineland, Sweden",free
+180,110,2/18/2024 3:41,error,58,2.017980423,3,TRUE,finance,"Lopezborough, Suriname",enterprise
+181,183,8/13/2024 15:03,query,33,1.86383994,1,TRUE,finance,"East Kelly, New Zealand",free
+182,123,4/5/2024 1:28,feedback,53,1.707089134,3,TRUE,finance,"Nicholasbury, Heard Island and McDonald Islands",premium
+183,146,3/19/2024 10:45,query,30,2.809496741,5,TRUE,education,"Rhondaville, Barbados",free
+184,126,8/18/2024 22:22,query,83,2.104330526,2,FALSE,finance,"Stephaniehaven, Trinidad and Tobago",enterprise
+185,106,3/8/2024 21:13,query,37,1.846423072,4,FALSE,education,"Stuartstad, Slovenia",premium
+186,167,7/8/2024 5:32,feedback,69,2.74140193,1,FALSE,education,"West Susan, Chile",enterprise
+187,181,1/22/2024 22:03,query,18,1.389324707,2,FALSE,finance,"Lake Christopher, Vietnam",free
+188,181,5/10/2024 5:42,query,35,2.083571996,5,FALSE,finance,"Candiceton, Comoros",enterprise
+189,188,2/23/2024 23:48,query,96,2.365965207,3,FALSE,education,"East Abigail, Italy",free
+190,199,5/5/2024 0:34,feedback,33,1.347900974,1,TRUE,education,"Port Victoriamouth, Seychelles",free
+191,183,5/19/2024 1:31,error,19,2.291821941,2,FALSE,finance,"Sellersmouth, Bouvet Island (Bouvetoya)",enterprise
+192,176,2/8/2024 21:11,error,13,1.064354761,2,TRUE,healthcare,"Travisland, British Virgin Islands",premium
+193,156,8/1/2024 12:08,feedback,18,1.423771003,4,TRUE,finance,"East Elizabethport, Ireland",premium
+194,106,8/29/2024 7:30,feedback,88,2.922163827,4,FALSE,healthcare,"Carlaville, Thailand",free
+195,189,3/13/2024 16:34,error,19,2.639616144,2,FALSE,healthcare,"Port Cory, United Arab Emirates",enterprise
+196,165,3/17/2024 20:05,query,58,1.221334101,5,FALSE,healthcare,"Jonesview, Russian Federation",premium
+197,178,4/25/2024 4:57,error,35,1.193224138,4,FALSE,finance,"Hunterview, Georgia",premium
+198,140,4/4/2024 7:22,feedback,10,1.981478983,5,FALSE,education,"Meghanland, Slovakia (Slovak Republic)",free
+199,158,5/8/2024 23:34,query,36,1.238348415,1,TRUE,healthcare,"East Danielborough, Northern Mariana Islands",free
+200,126,8/9/2024 0:15,error,44,2.620868017,5,FALSE,healthcare,"Fischerville, Cameroon",premium
+201,155,1/20/2024 23:22,feedback,29,1.611790188,3,FALSE,education,"East Sandra, Nicaragua",free
+202,190,8/18/2024 16:16,query,35,1.066752553,4,FALSE,education,"Ramirezberg, Romania",premium
+203,152,4/30/2024 8:17,query,31,2.193426299,4,FALSE,finance,"Jessicabury, Wallis and Futuna",free
+204,159,4/24/2024 16:00,feedback,65,1.132373576,5,TRUE,healthcare,"Jasonton, Swaziland",enterprise
+205,198,7/31/2024 20:19,feedback,21,1.643890398,5,FALSE,healthcare,"South Randall, Portugal",enterprise
+206,135,8/19/2024 1:12,feedback,74,2.258659669,4,FALSE,healthcare,"West Ann, South Georgia and the South Sandwich Islands",free
+207,197,9/10/2024 23:48,error,86,1.146408323,5,FALSE,education,"Maryview, Zimbabwe",free
+208,190,9/8/2024 6:25,error,44,1.963426954,5,TRUE,finance,"New Johnburgh, Antigua and Barbuda",premium
+209,142,7/8/2024 8:05,query,66,1.051333312,3,TRUE,healthcare,"Rodriguezmouth, Serbia",enterprise
+210,107,3/3/2024 3:31,query,54,2.180158478,3,FALSE,finance,"South John, Cook Islands",enterprise
+211,118,2/7/2024 1:28,error,46,1.659287619,2,FALSE,healthcare,"Catherineview, Zimbabwe",free
+212,197,2/27/2024 1:28,feedback,63,2.282868447,3,FALSE,education,"Davidstad, Guyana",free
+213,108,8/3/2024 9:37,error,15,2.674606919,2,TRUE,finance,"Lake Franciscoburgh, Guatemala",premium
+214,100,1/5/2024 17:15,error,21,2.812102289,2,TRUE,finance,"Michaelberg, Angola",free
+215,199,4/6/2024 9:13,feedback,90,1.034229191,4,TRUE,education,"Campbellton, Niue",premium
+216,132,5/12/2024 10:13,error,59,1.458226016,4,FALSE,healthcare,"North Tyler, Taiwan",enterprise
+217,123,8/10/2024 17:06,error,66,1.464078644,2,FALSE,education,"South Amanda, Maldives",enterprise
+218,107,9/13/2024 3:20,error,25,2.970925175,4,FALSE,education,"Murphyhaven, Netherlands",premium
+219,167,7/27/2024 10:20,feedback,64,1.128631416,4,TRUE,finance,"Knappside, Guyana",premium
+220,190,4/21/2024 4:31,feedback,15,1.240636478,5,TRUE,healthcare,"North Edwin, Portugal",enterprise
+221,103,6/10/2024 18:37,feedback,79,2.480318984,4,FALSE,healthcare,"Port Ryan, Mauritius",free
+222,168,8/6/2024 4:36,error,55,2.632862951,3,FALSE,education,"Harpershire, Saint Helena",free
+223,179,6/22/2024 2:02,error,56,1.938372602,3,FALSE,healthcare,"North Ray, South Africa",free
+224,166,4/9/2024 20:59,error,65,1.863726307,4,FALSE,education,"South Kevinside, Chile",free
+225,112,9/7/2024 21:27,query,41,2.746937587,3,TRUE,education,"Port James, Croatia",premium
+226,121,8/14/2024 0:44,query,56,2.745209016,3,TRUE,education,"Port Michellemouth, Vietnam",free
+227,115,1/25/2024 18:03,error,25,1.284274004,4,FALSE,education,"Johnstonshire, Bahrain",free
+228,161,7/16/2024 7:20,feedback,33,1.780915402,4,FALSE,education,"Garrettmouth, Isle of Man",premium
+229,191,1/20/2024 11:45,error,54,2.740458493,4,FALSE,healthcare,"Porterport, Russian Federation",enterprise
+230,120,5/29/2024 22:20,error,42,2.616329379,5,TRUE,finance,"Jasmineburgh, Spain",premium
+231,141,9/2/2024 0:18,feedback,95,1.242004026,4,TRUE,education,"Clarkview, British Indian Ocean Territory (Chagos Archipelago)",free
+232,145,7/20/2024 4:36,query,69,1.142595438,4,FALSE,finance,"East Anthony, Christmas Island",free
+233,171,5/28/2024 5:15,query,24,2.872885571,3,FALSE,finance,"West Gary, Albania",premium
+234,168,5/7/2024 5:30,error,58,2.486921167,4,TRUE,finance,"Pennyport, Poland",free
+235,188,1/16/2024 0:43,query,39,2.430622772,1,FALSE,education,"West Brandy, Wallis and Futuna",premium
+236,196,8/31/2024 6:17,feedback,77,2.387946866,1,FALSE,healthcare,"Port Kelseyfurt, Mexico",premium
+237,192,8/13/2024 1:56,error,55,2.951412879,4,FALSE,education,"Thomasbury, Guyana",free
+238,125,1/22/2024 2:14,error,46,1.897301752,1,TRUE,healthcare,"Wrightshire, American Samoa",premium
+239,104,5/2/2024 20:48,feedback,78,2.677249763,4,TRUE,finance,"Lisabury, American Samoa",premium
+240,199,4/27/2024 1:29,error,10,2.433142151,5,TRUE,education,"Coopertown, Ireland",premium
+241,104,6/22/2024 0:43,query,18,2.392878775,5,FALSE,education,"East Amyland, Marshall Islands",premium
+242,192,1/26/2024 11:59,feedback,26,2.263612518,1,TRUE,education,"Obrienville, Saint Kitts and Nevis",premium
+243,156,8/21/2024 19:46,query,83,2.955642876,5,TRUE,healthcare,"South Gregorymouth, Guernsey",enterprise
+244,181,8/15/2024 18:40,query,99,1.956073922,5,FALSE,healthcare,"Vincentport, Haiti",enterprise
+245,148,2/14/2024 16:36,feedback,63,2.366347924,2,FALSE,healthcare,"South Samanthaborough, Malawi",enterprise
+246,141,2/6/2024 12:07,query,23,2.440437984,2,TRUE,healthcare,"Port Hannah, Saint Kitts and Nevis",premium
+247,116,3/10/2024 16:21,error,85,2.792430766,2,TRUE,finance,"East Brandyshire, San Marino",premium
+248,178,1/10/2024 14:49,query,30,1.921349061,2,FALSE,healthcare,"Frankberg, Paraguay",enterprise
+249,130,4/19/2024 7:30,error,71,1.885530434,4,FALSE,finance,"East Louis, Tunisia",free
+250,192,5/12/2024 14:27,feedback,33,2.091349869,3,FALSE,healthcare,"New Brandonhaven, Guyana",premium
+251,113,7/12/2024 17:59,error,74,2.529264855,5,FALSE,education,"Sarahville, Nauru",free
+252,119,6/8/2024 17:06,error,62,2.587930193,3,FALSE,education,"West Dianefort, Puerto Rico",premium
+253,185,4/2/2024 13:45,feedback,71,2.869803581,3,TRUE,healthcare,"Lake Elizabeth, Guam",premium
+254,111,3/23/2024 20:31,error,25,2.181642581,2,TRUE,finance,"Sandovalland, Iraq",premium
+255,108,4/18/2024 3:51,error,19,2.820141001,1,TRUE,education,"South Cassandra, Montenegro",premium
+256,184,4/15/2024 1:56,query,83,2.826512363,5,FALSE,finance,"Antoniostad, Chad",enterprise
+257,188,1/6/2024 5:41,query,86,2.438402655,5,FALSE,education,"North Julie, Mayotte",premium
+258,143,7/29/2024 5:16,error,64,1.444517414,2,TRUE,finance,"West Ryantown, Korea",free
+259,134,4/6/2024 18:09,error,93,2.780761572,4,FALSE,finance,"Kennethberg, Uruguay",free
+260,155,1/30/2024 5:51,query,16,2.843656814,1,TRUE,healthcare,"Port Joseph, Heard Island and McDonald Islands",enterprise
+261,162,5/24/2024 11:03,error,40,1.807429176,5,TRUE,education,"South Robin, Northern Mariana Islands",enterprise
+262,199,9/6/2024 19:50,feedback,95,1.224621862,2,FALSE,healthcare,"Robertborough, Iraq",premium
+263,120,7/15/2024 5:18,query,74,2.633140092,2,FALSE,finance,"East Samanthaburgh, Panama",free
+264,194,5/23/2024 16:32,error,70,2.972293757,5,TRUE,healthcare,"Gillespieburgh, Luxembourg",premium
+265,139,9/12/2024 16:31,feedback,13,2.145960591,1,TRUE,education,"Lake Brandon, Aruba",free
+266,161,8/14/2024 12:50,query,84,2.36656342,5,FALSE,finance,"Robertstad, Tokelau",premium
+267,110,4/11/2024 19:19,error,62,1.906037914,4,TRUE,finance,"Jasonburgh, Portugal",premium
+268,133,8/2/2024 16:44,query,51,1.829891732,2,FALSE,finance,"Lake Matthewshire, Palestinian Territory",enterprise
+269,177,6/21/2024 19:43,query,81,2.552848677,5,FALSE,healthcare,"Underwoodtown, Jamaica",enterprise
+270,175,7/26/2024 21:23,error,65,1.862676453,1,TRUE,healthcare,"Danielhaven, Cape Verde",enterprise
+271,152,2/10/2024 16:28,query,88,2.918304737,2,TRUE,healthcare,"West Teresa, Thailand",premium
+272,180,1/18/2024 7:19,feedback,63,2.181089079,1,FALSE,healthcare,"Melissafurt, South Africa",free
+273,177,1/1/2024 10:53,feedback,26,1.712409342,5,FALSE,education,"North Robertoshire, Guernsey",enterprise
+274,100,1/22/2024 12:57,error,82,2.192249912,2,FALSE,healthcare,"West Amber, Angola",premium
+275,118,4/16/2024 8:45,error,19,2.93275831,2,TRUE,finance,"Tanyaborough, Seychelles",premium
+276,175,3/18/2024 19:44,feedback,40,2.944649771,2,FALSE,healthcare,"Wongtown, Swaziland",premium
+277,176,6/16/2024 10:13,query,11,1.849801415,2,TRUE,healthcare,"Weberside, Croatia",enterprise
+278,128,2/15/2024 8:52,error,13,2.957497642,1,FALSE,education,"Port Stevestad, Cocos (Keeling) Islands",free
+279,153,3/28/2024 15:13,error,60,2.876424621,3,TRUE,education,"Port Erin, India",free
+280,167,7/26/2024 21:13,error,21,1.450572339,2,TRUE,finance,"Millerstad, Germany",enterprise
+281,117,6/10/2024 13:47,feedback,59,1.022537164,4,TRUE,education,"East Marvinmouth, Palestinian Territory",free
+282,169,3/28/2024 3:00,query,15,2.995978415,4,TRUE,education,"East Colechester, Portugal",premium
+283,179,3/6/2024 17:24,feedback,35,1.257481049,1,TRUE,education,"Jeffreyshire, Svalbard & Jan Mayen Islands",free
+284,177,1/13/2024 19:48,feedback,99,2.10476694,1,FALSE,healthcare,"North Shellyshire, Uganda",premium
+285,142,6/4/2024 17:52,error,87,1.400168525,1,TRUE,education,"Port John, Equatorial Guinea",enterprise
+286,198,8/1/2024 2:33,query,55,1.705819653,2,TRUE,healthcare,"West Donna, Lao People's Democratic Republic",free
+287,149,1/23/2024 0:17,query,67,2.287523839,2,FALSE,healthcare,"Port Tonytown, Faroe Islands",free
+288,124,3/15/2024 22:22,feedback,41,1.121484834,1,FALSE,finance,"New Patrick, Sudan",free
+289,162,6/26/2024 4:11,query,54,2.775474255,5,FALSE,finance,"New Scott, Dominican Republic",free
+290,181,2/13/2024 0:01,feedback,97,2.98978177,5,FALSE,finance,"North Brendaborough, Mayotte",free
+291,102,3/29/2024 22:39,query,57,2.901757939,2,FALSE,finance,"Henryland, Canada",enterprise
+292,139,6/11/2024 18:22,feedback,68,2.982611645,1,TRUE,healthcare,"Port Perrybury, Sweden",free
+293,125,5/15/2024 10:53,error,12,1.710821645,5,TRUE,healthcare,"Allenchester, Algeria",enterprise
+294,156,3/20/2024 23:35,query,69,2.55466996,4,FALSE,healthcare,"Lowebury, Guinea",premium
+295,125,5/29/2024 23:43,query,27,1.720572845,2,TRUE,healthcare,"Port John, United States Virgin Islands",free
+296,181,6/20/2024 13:47,feedback,14,2.58169984,4,FALSE,healthcare,"Dianamouth, Denmark",free
+297,126,1/14/2024 17:04,feedback,72,2.0742845,3,FALSE,finance,"North Carmenchester, British Virgin Islands",enterprise
+298,101,5/6/2024 17:51,error,83,1.716472496,4,FALSE,education,"Lake Brandon, Kuwait",enterprise
+299,169,1/12/2024 10:21,query,90,2.68173866,3,TRUE,education,"Port Joshua, Croatia",premium
+300,131,5/17/2024 9:36,feedback,70,1.614050571,5,FALSE,finance,"Juliebury, Poland",premium
+301,128,2/24/2024 21:21,error,88,1.597531049,5,FALSE,education,"Smithmouth, Bolivia",premium
+302,125,8/17/2024 23:35,feedback,95,1.621696766,1,TRUE,education,"East Sherrymouth, Liberia",premium
+303,133,6/11/2024 19:18,feedback,22,2.030111916,1,FALSE,finance,"New Jefferyton, Canada",free
+304,146,3/9/2024 0:17,feedback,56,2.650749088,3,TRUE,education,"Charleshaven, Aruba",enterprise
+305,110,8/24/2024 6:20,error,37,2.067117574,2,TRUE,finance,"Johnsonstad, Gibraltar",free
+306,104,1/22/2024 8:08,query,50,1.70253507,3,FALSE,healthcare,"West Crystal, Botswana",free
+307,184,2/20/2024 12:13,query,49,1.147186196,2,TRUE,education,"East Kelly, Bolivia",free
+308,145,9/3/2024 10:30,error,95,1.547939207,4,FALSE,healthcare,"Lake Sharonshire, Kenya",free
+309,195,1/28/2024 13:22,feedback,47,1.826008948,2,FALSE,education,"West Josephchester, Pakistan",premium
+310,107,5/14/2024 12:18,feedback,33,1.589429034,4,TRUE,finance,"Lake Craig, Bosnia and Herzegovina",enterprise
+311,118,5/29/2024 23:16,query,13,2.584749963,1,TRUE,finance,"East Carlberg, Brazil",premium
+312,160,1/14/2024 10:03,query,49,2.796874711,4,FALSE,healthcare,"West Joshua, Peru",premium
+313,128,9/5/2024 22:39,query,33,1.528659836,5,FALSE,finance,"Judithhaven, Ukraine",premium
+314,121,5/8/2024 14:55,query,86,2.653484296,5,TRUE,healthcare,"Michaelton, Belgium",enterprise
+315,177,6/19/2024 1:44,feedback,62,2.677570287,4,FALSE,finance,"Rayborough, Central African Republic",premium
+316,111,9/1/2024 11:40,error,86,2.653814711,1,TRUE,healthcare,"Lake Andrewburgh, French Southern Territories",free
+317,177,2/18/2024 2:02,feedback,32,2.13182893,1,TRUE,education,"Ryanville, United Kingdom",free
+318,177,9/12/2024 15:43,feedback,10,1.334108392,1,TRUE,finance,"Estradaland, Liberia",free
+319,122,4/22/2024 19:30,error,63,2.49024517,2,FALSE,education,"South John, Mexico",enterprise
+320,159,3/27/2024 4:59,error,92,1.098522044,4,FALSE,finance,"East Annette, Benin",enterprise
+321,110,7/19/2024 8:25,error,39,1.842630366,1,FALSE,education,"West Sara, Jamaica",enterprise
+322,169,6/8/2024 2:09,feedback,83,2.877121286,3,TRUE,education,"Turnerton, French Guiana",premium
+323,145,4/22/2024 14:53,error,78,2.320317555,1,TRUE,finance,"New David, Uganda",enterprise
+324,124,7/14/2024 8:19,query,30,2.291903798,4,FALSE,healthcare,"Rhondashire, Antarctica (the territory South of 60 deg S)",enterprise
+325,142,4/10/2024 19:41,query,59,2.963848919,1,FALSE,healthcare,"Albertfort, Reunion",free
+326,187,4/26/2024 22:53,feedback,27,2.079164632,2,FALSE,education,"Hernandezburgh, Lithuania",enterprise
+327,123,1/11/2024 21:46,query,37,2.905000804,5,FALSE,education,"West Jonathanchester, Paraguay",free
+328,119,8/23/2024 23:33,error,76,1.373816396,2,FALSE,healthcare,"Amandaville, Egypt",free
+329,179,6/20/2024 9:28,feedback,51,2.828375268,1,FALSE,healthcare,"East Colefurt, Wallis and Futuna",premium
+330,124,9/7/2024 14:39,query,32,1.616545314,5,TRUE,finance,"Kyleburgh, Tokelau",enterprise
+331,144,3/5/2024 5:58,feedback,88,2.656444073,5,FALSE,education,"Barbarafort, Tunisia",enterprise
+332,167,5/23/2024 20:29,error,24,1.859097927,5,FALSE,healthcare,"Harrisbury, Myanmar",free
+333,177,8/8/2024 16:41,query,55,1.649253357,1,FALSE,finance,"Smithland, Guernsey",premium
+334,138,6/12/2024 3:41,error,63,2.49545368,3,FALSE,education,"Josephshire, Georgia",free
+335,102,7/10/2024 15:54,error,83,2.149729332,5,FALSE,healthcare,"Whitechester, New Zealand",premium
+336,108,2/24/2024 2:04,query,81,1.877292322,3,FALSE,healthcare,"Williamtown, Sweden",free
+337,191,5/13/2024 15:32,error,42,2.28966669,1,FALSE,healthcare,"Lake Sara, Nicaragua",enterprise
+338,151,4/10/2024 13:09,query,48,2.476152738,2,TRUE,education,"New Juan, Equatorial Guinea",free
+339,110,5/8/2024 19:34,query,22,1.68951894,4,TRUE,education,"Hannahmouth, Andorra",enterprise
+340,176,7/8/2024 5:57,query,74,1.324332167,4,TRUE,education,"Victorshire, Vietnam",free
+341,144,9/2/2024 17:50,query,46,2.633240878,3,FALSE,healthcare,"East Tyronemouth, Ethiopia",enterprise
+342,161,6/16/2024 0:40,query,67,2.239064735,5,TRUE,finance,"Leeborough, Zimbabwe",enterprise
+343,126,4/18/2024 16:05,query,70,1.266452338,4,FALSE,finance,"Port Jimmy, Benin",free
+344,115,6/17/2024 5:53,feedback,88,2.492343244,5,TRUE,finance,"Glennshire, Western Sahara",free
+345,114,1/6/2024 5:54,feedback,65,1.571256302,1,TRUE,finance,"Lake Angelaborough, Mauritania",enterprise
+346,185,5/21/2024 6:06,feedback,40,2.478425556,3,FALSE,healthcare,"Elizabethport, Wallis and Futuna",free
+347,130,4/3/2024 11:09,error,58,2.35953176,3,FALSE,finance,"North Kimberly, Rwanda",premium
+348,180,4/27/2024 19:19,error,76,2.829046171,3,TRUE,healthcare,"New Kathy, Chile",enterprise
+349,151,2/17/2024 23:18,query,75,2.310576412,5,TRUE,education,"Lake Shelby, Panama",premium
+350,183,2/28/2024 17:48,error,96,2.107477103,3,FALSE,healthcare,"Williammouth, Gibraltar",premium
+351,144,5/30/2024 5:49,feedback,68,1.400606682,1,TRUE,education,"Adamshire, India",free
+352,174,5/14/2024 6:48,feedback,30,1.31337586,4,TRUE,healthcare,"Port Taylorside, Eritrea",free
+353,136,2/18/2024 14:52,query,23,2.82181511,1,TRUE,healthcare,"Markmouth, Jersey",enterprise
+354,145,5/24/2024 19:00,error,16,2.608070786,4,TRUE,education,"West Jasmine, Italy",enterprise
+355,144,4/20/2024 6:24,query,64,2.210978018,1,FALSE,education,"Port Debramouth, Samoa",free
+356,127,5/6/2024 4:58,feedback,89,1.196527353,3,FALSE,healthcare,"Lake Timothychester, Christmas Island",free
+357,136,3/7/2024 4:49,query,37,2.476261698,3,FALSE,healthcare,"Michaelborough, Libyan Arab Jamahiriya",premium
+358,160,4/1/2024 12:42,error,93,1.407961096,3,TRUE,education,"Port Maryberg, Morocco",premium
+359,168,1/13/2024 8:05,feedback,13,1.418676698,5,TRUE,healthcare,"Garciafort, Qatar",enterprise
+360,114,3/3/2024 4:06,feedback,25,1.16889891,3,FALSE,finance,"East Chad, Namibia",premium
+361,155,7/18/2024 23:35,error,26,2.480716486,2,FALSE,finance,"Markport, United States Minor Outlying Islands",free
+362,109,8/11/2024 9:22,error,71,2.63163269,1,FALSE,education,"Stevenshaven, Guyana",enterprise
+363,186,4/10/2024 23:13,feedback,53,2.471801631,2,FALSE,education,"East Amanda, Serbia",free
+364,122,3/13/2024 8:49,error,69,1.931574784,3,TRUE,education,"Fergusonburgh, Tanzania",premium
+365,139,1/14/2024 1:15,feedback,56,2.348748006,5,TRUE,education,"Pricefort, Equatorial Guinea",enterprise
+366,118,8/25/2024 14:38,error,28,1.063024639,5,TRUE,finance,"Scottmouth, Nicaragua",premium
+367,163,4/4/2024 15:40,error,58,2.617703416,4,FALSE,education,"Danielstad, Fiji",free
+368,189,9/4/2024 13:02,error,40,1.49046243,2,FALSE,finance,"Lake Lisa, Jordan",premium
+369,127,6/20/2024 7:09,query,16,2.13842016,1,FALSE,healthcare,"Wilkersonchester, Libyan Arab Jamahiriya",premium
+370,142,4/15/2024 10:59,error,46,2.311219612,5,FALSE,finance,"New Melissa, Suriname",free
+371,147,4/15/2024 21:02,query,31,2.352949575,3,TRUE,finance,"Lindafort, Azerbaijan",enterprise
+372,101,1/26/2024 11:57,error,44,1.706880784,2,FALSE,education,"Ryanport, Syrian Arab Republic",premium
+373,137,4/12/2024 2:38,error,76,1.033786531,3,FALSE,education,"West Austin, Northern Mariana Islands",free
+374,173,8/6/2024 2:24,feedback,42,1.264578739,1,TRUE,finance,"Bellbury, Lithuania",enterprise
+375,175,2/20/2024 1:08,error,81,2.520285243,1,TRUE,education,"Lake Christine, India",free
+376,104,6/30/2024 2:51,feedback,32,1.802940237,2,FALSE,education,"Paulbury, Bermuda",free
+377,100,1/16/2024 9:52,feedback,98,2.586544345,3,FALSE,finance,"West Alejandra, Cook Islands",free
+378,125,1/23/2024 3:53,feedback,65,1.118927599,2,TRUE,finance,"Whiteborough, Romania",enterprise
+379,112,7/13/2024 6:09,query,54,1.600000702,2,TRUE,healthcare,"Duncanfurt, Egypt",premium
+380,116,4/16/2024 2:23,feedback,83,2.347206304,2,TRUE,finance,"North Davidfort, Belarus",free
+381,187,8/2/2024 10:36,feedback,90,2.507363234,5,TRUE,education,"Marisatown, India",premium
+382,127,8/5/2024 15:03,feedback,52,2.155223016,5,TRUE,healthcare,"Sandrastad, Guinea-Bissau",premium
+383,180,7/14/2024 21:52,query,67,1.401881007,3,TRUE,education,"North Jamie, Tanzania",free
+384,197,6/16/2024 9:25,error,75,1.044596905,5,FALSE,education,"Nicoleside, Poland",free
+385,160,2/18/2024 1:42,feedback,24,1.458717516,5,FALSE,healthcare,"Jonesshire, Lebanon",enterprise
+386,123,9/1/2024 3:25,feedback,45,2.301025844,5,TRUE,healthcare,"Port Jaimeland, Kiribati",free
+387,121,5/19/2024 4:05,query,30,2.596669336,1,TRUE,healthcare,"South Antoniochester, Cape Verde",premium
+388,161,2/18/2024 17:03,feedback,15,1.235600365,3,TRUE,education,"Carlyside, Macedonia",free
+389,104,1/10/2024 14:41,query,47,2.513866957,4,TRUE,education,"Kochmouth, Guinea-Bissau",premium
+390,197,2/29/2024 17:18,feedback,20,2.483562756,4,FALSE,education,"Laramouth, Rwanda",premium
+391,199,7/9/2024 21:03,feedback,75,2.907293932,1,FALSE,finance,"Lake Kelsey, Haiti",premium
+392,158,3/28/2024 10:23,query,94,1.784221305,3,TRUE,education,"Tracieland, Ghana",premium
+393,177,2/21/2024 15:43,feedback,39,1.338948754,5,TRUE,healthcare,"South Brian, Iraq",free
+394,151,6/21/2024 16:58,query,48,2.902882684,1,TRUE,education,"New Steven, Bolivia",enterprise
+395,196,6/21/2024 20:01,query,45,2.992343572,4,TRUE,finance,"East Michael, Malawi",enterprise
+396,155,7/13/2024 23:02,query,42,2.793533067,2,TRUE,healthcare,"Stephensmouth, Grenada",enterprise
+397,103,2/15/2024 14:20,query,78,1.316297977,2,FALSE,healthcare,"West John, Christmas Island",enterprise
+398,172,8/21/2024 2:51,feedback,84,2.995206519,2,FALSE,healthcare,"West Laura, Bermuda",free
+399,191,1/26/2024 7:10,error,15,1.056849614,5,FALSE,education,"East Richard, Cook Islands",enterprise
+400,131,2/4/2024 4:57,query,58,1.808038017,2,TRUE,finance,"Lynchbury, Saint Martin",free
+401,176,8/21/2024 6:50,query,91,2.457539468,3,TRUE,healthcare,"Christophershire, French Southern Territories",enterprise
+402,120,8/7/2024 7:10,feedback,25,2.841994599,2,FALSE,education,"Summersfort, Peru",enterprise
+403,154,3/23/2024 18:14,query,44,2.636843312,2,TRUE,healthcare,"East David, Portugal",free
+404,134,6/16/2024 19:15,error,80,1.052739703,2,TRUE,education,"Ortizview, Kyrgyz Republic",premium
+405,173,9/3/2024 5:55,query,17,2.627824123,4,TRUE,education,"South Rebeccaside, Bangladesh",free
+406,115,2/27/2024 1:50,error,52,2.420932883,5,TRUE,finance,"Amandaland, Cocos (Keeling) Islands",free
+407,129,7/30/2024 2:07,query,40,2.760560296,3,TRUE,education,"Smithburgh, Montserrat",enterprise
+408,177,8/16/2024 6:09,feedback,89,2.579357286,2,FALSE,finance,"Brockfort, Guinea-Bissau",enterprise
+409,120,8/29/2024 14:26,error,63,1.895573327,5,FALSE,education,"Maloneberg, British Indian Ocean Territory (Chagos Archipelago)",free
+410,142,2/7/2024 14:52,error,58,1.333807491,4,TRUE,education,"Tiffanyfort, Cambodia",premium
+411,113,8/31/2024 5:18,error,65,1.750331899,2,FALSE,healthcare,"Rebeccaton, Gabon",premium
+412,124,9/9/2024 15:36,feedback,37,2.929953866,2,TRUE,education,"Port Carrie, Fiji",premium
+413,153,5/31/2024 11:34,feedback,21,1.018874411,2,TRUE,education,"Port Wesleyville, Jordan",premium
+414,156,8/1/2024 11:37,query,19,2.205032056,1,TRUE,healthcare,"Ricetown, South Africa",premium
+415,165,1/19/2024 22:33,error,42,1.134977337,5,TRUE,healthcare,"Lake Christophertown, Rwanda",free
+416,194,3/30/2024 16:55,query,56,2.293825659,5,FALSE,education,"Lawrencemouth, Swaziland",enterprise
+417,167,5/17/2024 4:44,feedback,48,2.701740137,2,FALSE,finance,"East Robertmouth, Christmas Island",enterprise
+418,152,7/16/2024 21:53,feedback,71,1.740033169,3,FALSE,healthcare,"South Sarah, Guam",premium
+419,198,6/4/2024 11:18,query,76,1.993152089,4,TRUE,healthcare,"Kingtown, Congo",premium
+420,180,6/4/2024 10:46,feedback,87,2.83611869,2,FALSE,education,"Anthonyland, Cameroon",free
+421,161,6/10/2024 1:04,feedback,79,2.40147781,4,TRUE,finance,"Lake Victoria, Congo",enterprise
+422,176,8/6/2024 21:52,query,15,2.632551769,1,TRUE,healthcare,"Port Connorland, Thailand",free
+423,155,4/23/2024 1:34,query,25,2.793744868,1,FALSE,healthcare,"Lake Meganside, Brunei Darussalam",free
+424,168,4/29/2024 6:44,query,96,1.740584957,3,TRUE,finance,"West Eric, Korea",free
+425,134,7/20/2024 20:26,error,11,1.915939331,5,TRUE,healthcare,"Lindaborough, New Caledonia",premium
+426,186,1/4/2024 11:53,error,93,1.227982326,3,TRUE,finance,"North Joshua, Antigua and Barbuda",premium
+427,156,5/27/2024 12:25,error,33,2.43712232,4,TRUE,education,"North William, Ethiopia",premium
+428,195,7/24/2024 17:55,error,81,1.939713636,4,FALSE,healthcare,"Kevinton, India",enterprise
+429,103,5/4/2024 23:44,error,72,1.848724811,3,FALSE,education,"New John, Libyan Arab Jamahiriya",enterprise
+430,107,6/15/2024 21:47,query,81,2.170111203,2,TRUE,finance,"East Lindseystad, Fiji",enterprise
+431,175,5/6/2024 14:29,feedback,98,2.41882025,2,TRUE,healthcare,"Cookfort, Saint Helena",enterprise
+432,150,7/8/2024 22:49,error,11,1.475738472,3,FALSE,finance,"New Justinport, Palestinian Territory",free
+433,162,1/21/2024 0:41,feedback,35,1.049658116,1,FALSE,finance,"East Dianetown, Cyprus",enterprise
+434,192,5/24/2024 9:28,feedback,74,2.74681531,4,TRUE,education,"North Alexanderfurt, Aruba",enterprise
+435,162,6/4/2024 10:06,feedback,21,1.595360171,4,FALSE,education,"Copelandview, Madagascar",premium
+436,100,4/21/2024 4:52,query,35,1.42030216,2,TRUE,healthcare,"Chavezchester, Mayotte",enterprise
+437,175,9/8/2024 14:08,query,95,2.803846224,1,TRUE,finance,"Victorview, Cayman Islands",free
+438,179,3/22/2024 5:17,feedback,51,2.019933602,5,TRUE,healthcare,"New Susan, Liechtenstein",enterprise
+439,193,5/23/2024 1:38,error,64,2.433401543,3,TRUE,healthcare,"Brendaburgh, Swaziland",premium
+440,125,6/9/2024 21:17,query,46,1.900331858,4,TRUE,healthcare,"New Jerryview, Gibraltar",free
+441,135,2/17/2024 2:47,query,82,1.9474131,4,TRUE,finance,"Robbinsbury, Estonia",premium
+442,131,6/22/2024 19:18,error,62,1.841776038,5,TRUE,education,"Millerberg, Guernsey",premium
+443,100,7/17/2024 18:56,error,91,2.942239625,1,TRUE,healthcare,"Riveramouth, Singapore",premium
+444,102,4/28/2024 13:57,query,24,1.599203127,2,TRUE,education,"New Mandybury, Cape Verde",free
+445,130,7/16/2024 10:33,error,72,1.729163923,2,TRUE,healthcare,"Burgessborough, Kazakhstan",premium
+446,184,4/14/2024 10:10,feedback,74,1.597595679,3,TRUE,education,"New Rebeccamouth, Gabon",premium
+447,126,4/7/2024 23:04,feedback,98,1.1496987,4,FALSE,finance,"Christopherhaven, Trinidad and Tobago",enterprise
+448,108,6/8/2024 2:04,query,52,2.45185085,2,TRUE,finance,"East Stevenport, Qatar",enterprise
+449,152,7/27/2024 6:03,query,24,2.095460757,5,TRUE,education,"East Renee, Bahamas",enterprise
+450,183,6/2/2024 22:06,feedback,12,2.757106057,5,TRUE,healthcare,"Tannerberg, United States Virgin Islands",enterprise
+451,111,7/16/2024 12:25,feedback,21,1.73753097,4,FALSE,finance,"Irwinchester, Philippines",free
+452,119,3/30/2024 5:26,feedback,11,1.434663344,5,TRUE,finance,"Meganton, Micronesia",premium
+453,168,3/24/2024 2:11,query,11,2.744454453,2,TRUE,finance,"Codyhaven, Uganda",premium
+454,172,7/18/2024 19:44,error,92,2.063335795,3,TRUE,finance,"South Megan, United Kingdom",enterprise
+455,143,3/8/2024 6:07,feedback,58,2.052394485,2,TRUE,finance,"North Troyfort, Sao Tome and Principe",premium
+456,142,7/10/2024 21:43,error,44,1.251459044,3,TRUE,education,"Connerborough, Bulgaria",free
+457,102,6/12/2024 12:02,feedback,35,1.144798576,1,FALSE,finance,"West Katherineland, Macedonia",premium
+458,114,3/27/2024 7:02,error,41,2.040796413,3,TRUE,finance,"Port Clinton, Benin",premium
+459,147,7/9/2024 11:31,feedback,29,2.554896757,1,TRUE,healthcare,"Port Brandyland, French Southern Territories",free
+460,184,2/20/2024 17:37,query,96,2.042467756,1,TRUE,healthcare,"Patriciafurt, Suriname",free
+461,119,5/21/2024 3:34,query,18,1.398700837,4,TRUE,healthcare,"North Kristopherview, Cameroon",premium
+462,191,1/17/2024 6:59,feedback,87,2.3990741,4,FALSE,healthcare,"Rebeccaberg, Thailand",free
+463,196,6/13/2024 18:22,error,65,2.985807954,4,TRUE,healthcare,"Lake Dennisshire, Swaziland",premium
+464,133,6/9/2024 16:29,feedback,98,2.11216189,1,FALSE,finance,"Christinemouth, Japan",enterprise
+465,143,4/7/2024 19:01,error,54,2.672961764,3,FALSE,finance,"Solisstad, Benin",enterprise
+466,197,1/10/2024 7:00,query,61,2.118381401,4,TRUE,healthcare,"Leblancfort, Panama",premium
+467,101,1/15/2024 1:43,query,90,2.266144503,4,FALSE,healthcare,"Ronaldburgh, Sri Lanka",premium
+468,199,3/30/2024 18:06,query,65,2.085391348,2,TRUE,finance,"South Michelle, Italy",free
+469,108,3/23/2024 19:42,error,47,2.445434764,5,FALSE,education,"West Stephanietown, Slovakia (Slovak Republic)",free
+470,186,4/18/2024 12:53,error,53,1.559111373,1,TRUE,healthcare,"Smithside, Cameroon",premium
+471,153,1/6/2024 10:28,error,67,2.713467683,3,FALSE,education,"New Gina, Slovakia (Slovak Republic)",premium
+472,139,7/26/2024 15:00,query,79,1.480161133,3,TRUE,healthcare,"East Nicholasburgh, Uganda",premium
+473,182,3/30/2024 20:28,query,42,2.588825279,1,TRUE,finance,"East Erictown, French Polynesia",free
+474,129,8/4/2024 9:05,feedback,46,2.906451223,5,TRUE,finance,"Mitchellport, Uganda",premium
+475,167,2/10/2024 7:23,query,23,1.394050152,2,FALSE,finance,"Rebeccafort, French Polynesia",premium
+476,102,1/18/2024 14:09,feedback,80,1.42042493,3,TRUE,finance,"Melanieborough, Jamaica",premium
+477,163,4/10/2024 8:59,query,90,1.157722024,3,TRUE,education,"Brandonberg, Barbados",premium
+478,172,4/6/2024 16:20,query,69,2.520168613,2,TRUE,finance,"North Rebecca, Cambodia",premium
+479,197,1/1/2024 10:10,feedback,22,1.078159641,4,FALSE,education,"Samanthaside, Myanmar",premium
+480,189,1/20/2024 1:05,error,37,2.339921634,4,FALSE,healthcare,"Port Elizabeth, Central African Republic",enterprise
+481,112,1/6/2024 21:41,error,46,1.599955693,3,TRUE,education,"Port Edward, Western Sahara",free
+482,176,2/25/2024 2:46,feedback,79,2.566773943,4,TRUE,finance,"New Natalie, Angola",premium
+483,131,5/11/2024 2:01,error,69,2.878213718,3,TRUE,education,"South John, Azerbaijan",premium
+484,132,8/31/2024 5:39,feedback,92,2.851041378,5,TRUE,healthcare,"Jeffreymouth, Comoros",enterprise
+485,125,6/23/2024 6:33,feedback,65,2.015717797,2,FALSE,education,"Tinamouth, Belarus",premium
+486,166,1/25/2024 13:36,query,85,1.807953804,2,TRUE,finance,"Adamstown, Costa Rica",enterprise
+487,141,2/4/2024 23:44,error,97,2.797903923,1,TRUE,finance,"New Corey, Bhutan",free
+488,172,3/30/2024 5:12,error,34,2.567737981,4,FALSE,healthcare,"Lake Stevenstad, Hungary",enterprise
+489,126,8/28/2024 0:36,query,88,1.920089822,2,FALSE,healthcare,"Lake Kristen, Pitcairn Islands",enterprise
+490,125,1/29/2024 17:56,query,55,1.836930333,3,TRUE,healthcare,"Lake Margaretfurt, Brazil",free
+491,159,7/30/2024 21:44,feedback,44,2.191503654,1,FALSE,education,"East Kirk, Saint Vincent and the Grenadines",premium
+492,119,3/9/2024 6:30,feedback,96,1.702030591,1,TRUE,finance,"Lake Kevinberg, Cambodia",enterprise
+493,139,4/3/2024 22:05,error,40,2.760765459,2,TRUE,healthcare,"West Mark, Guadeloupe",free
+494,163,5/3/2024 2:27,feedback,46,1.946725084,3,FALSE,finance,"Tammyfort, Lithuania",premium
+495,182,5/25/2024 6:19,query,19,1.374027836,5,FALSE,education,"Moranberg, Slovenia",enterprise
+496,187,7/1/2024 0:55,feedback,22,2.57330869,5,TRUE,healthcare,"Port Suzannebury, Belgium",enterprise
+497,127,8/21/2024 0:48,query,36,2.115714262,3,TRUE,education,"New Dianehaven, Antarctica (the territory South of 60 deg S)",premium
+498,176,7/19/2024 1:26,query,32,2.919506418,3,TRUE,healthcare,"North Derek, Egypt",free
+499,149,8/25/2024 15:53,feedback,85,1.544665848,5,FALSE,healthcare,"Fullershire, United Kingdom",free
+500,194,3/29/2024 18:54,query,37,2.896141533,1,TRUE,finance,"Ethanton, Central African Republic",free
+501,101,5/31/2024 23:03,feedback,94,1.075019398,4,TRUE,education,"East Nathan, France",free
+502,108,1/28/2024 11:03,error,61,2.093889322,4,TRUE,finance,"Lake Kellyberg, Nicaragua",free
+503,177,7/7/2024 3:12,feedback,93,2.950374908,5,FALSE,healthcare,"Lake Allenport, Holy See (Vatican City State)",enterprise
+504,131,4/23/2024 12:27,query,78,1.80668269,5,FALSE,healthcare,"Pacechester, Kiribati",premium
+505,194,7/2/2024 20:10,feedback,70,2.025652422,1,TRUE,healthcare,"Banksside, Aruba",enterprise
+506,167,5/20/2024 5:19,feedback,64,1.744611083,3,FALSE,finance,"Gregoryton, Martinique",free
+507,107,3/13/2024 2:32,feedback,74,2.803072052,5,FALSE,healthcare,"Joneston, Philippines",premium
+508,102,9/11/2024 1:53,error,43,2.167455487,5,FALSE,finance,"Richardmouth, Guyana",enterprise
+509,192,8/20/2024 16:12,error,97,1.163861063,1,FALSE,finance,"New Christopherfurt, Moldova",free
+510,192,6/26/2024 13:51,error,14,2.237732392,4,TRUE,finance,"Davisland, Czech Republic",enterprise
+511,107,2/15/2024 13:53,query,42,2.557885557,5,FALSE,education,"Danieltown, Saint Vincent and the Grenadines",enterprise
+512,171,1/6/2024 10:18,query,31,1.735308453,2,FALSE,healthcare,"Duncanside, Nepal",premium
+513,112,4/6/2024 1:23,query,58,2.101818423,3,TRUE,healthcare,"North Theresa, Iran",enterprise
+514,191,1/17/2024 3:40,query,11,1.528606992,4,FALSE,healthcare,"Lake Ashley, Trinidad and Tobago",enterprise
+515,196,3/20/2024 22:58,feedback,13,2.45606175,3,TRUE,education,"Debrashire, Korea",premium
+516,173,6/22/2024 23:18,feedback,92,2.986552172,4,TRUE,finance,"West Kennethmouth, Cayman Islands",premium
+517,118,4/14/2024 20:51,query,93,2.375492084,5,TRUE,finance,"Stanleymouth, Cuba",free
+518,142,6/11/2024 22:27,query,47,2.702090525,3,FALSE,finance,"Port Elizabethchester, Palau",enterprise
+519,123,1/8/2024 0:09,feedback,54,2.078558145,5,TRUE,healthcare,"Aprilfort, Central African Republic",free
+520,154,4/20/2024 3:11,query,82,2.720777537,5,FALSE,education,"Bonnieview, El Salvador",free
+521,198,7/7/2024 21:10,query,31,1.71611555,2,FALSE,finance,"Crystalfort, Liberia",premium
+522,177,8/31/2024 21:52,error,72,2.864199106,2,FALSE,education,"Williamsview, Liberia",enterprise
+523,136,4/9/2024 12:15,query,67,1.170524888,2,TRUE,healthcare,"Leehaven, Angola",premium
+524,146,4/26/2024 8:04,query,10,2.295897477,4,TRUE,education,"South Melissashire, Falkland Islands (Malvinas)",premium
+525,181,7/17/2024 14:48,feedback,30,1.256363872,5,FALSE,healthcare,"Wilsonville, India",premium
+526,194,4/9/2024 11:31,error,46,2.771741161,4,FALSE,finance,"East Jeremy, Liberia",free
+527,198,1/2/2024 3:20,feedback,47,2.481122078,2,TRUE,finance,"Boydtown, Senegal",enterprise
+528,145,1/15/2024 14:57,query,63,2.2452781,5,TRUE,finance,"New Dustin, San Marino",enterprise
+529,178,2/10/2024 18:22,error,24,2.394623113,4,FALSE,finance,"New Markbury, New Caledonia",premium
+530,118,2/1/2024 7:56,query,60,2.277990516,2,TRUE,healthcare,"Lake Andres, Singapore",enterprise
+531,114,3/5/2024 5:02,query,51,2.556823926,1,FALSE,finance,"Mendezport, Kuwait",free
+532,144,6/25/2024 12:25,query,53,1.056689183,4,FALSE,education,"Annside, Macao",premium
+533,135,4/14/2024 3:11,feedback,93,1.855292672,4,FALSE,finance,"Peterfurt, Saudi Arabia",free
+534,178,4/3/2024 23:08,error,50,1.092456822,4,FALSE,finance,"Christineland, Mauritius",free
+535,158,8/22/2024 20:02,error,94,1.179207965,2,TRUE,finance,"Georgefurt, Honduras",enterprise
+536,151,8/4/2024 20:07,error,16,1.514348036,5,TRUE,education,"East Stephen, Nauru",premium
+537,132,1/11/2024 6:01,feedback,84,1.420046514,2,FALSE,healthcare,"Tonyaburgh, Brunei Darussalam",premium
+538,107,1/8/2024 15:08,query,52,1.157632861,5,TRUE,healthcare,"Glovertown, Suriname",free
+539,118,3/3/2024 7:44,feedback,98,1.154587359,5,TRUE,healthcare,"Andrewberg, British Virgin Islands",enterprise
+540,165,1/28/2024 18:45,query,21,2.3946872,2,TRUE,education,"Jonathanchester, Vietnam",premium
+541,188,4/29/2024 6:49,query,71,2.411492357,2,FALSE,finance,"Smithland, Niger",free
+542,189,7/2/2024 10:52,query,20,1.846783768,2,FALSE,healthcare,"West Ericport, Djibouti",free
+543,115,5/4/2024 4:02,feedback,92,2.625443719,3,TRUE,education,"Owenshire, Finland",enterprise
+544,144,3/3/2024 3:54,query,62,1.080892364,4,FALSE,finance,"Port Patrick, French Southern Territories",premium
+545,103,1/25/2024 20:48,feedback,11,1.334734439,3,FALSE,finance,"Jennyborough, Guatemala",premium
+546,106,5/21/2024 14:57,error,12,2.530466444,4,TRUE,finance,"Deanland, France",free
+547,103,2/22/2024 18:26,error,77,2.878940831,4,TRUE,finance,"Leonardton, Solomon Islands",premium
+548,174,2/28/2024 10:37,error,51,1.031535047,2,TRUE,finance,"New Barbaraland, Uzbekistan",enterprise
+549,141,2/10/2024 10:20,feedback,14,2.425242775,5,FALSE,finance,"Jeanetteberg, Libyan Arab Jamahiriya",premium
+550,153,1/20/2024 16:21,error,48,2.595140244,4,TRUE,finance,"Donaldton, Northern Mariana Islands",enterprise
+551,121,1/2/2024 18:39,error,45,2.378087092,3,FALSE,finance,"Reneeburgh, Cambodia",free
+552,114,8/28/2024 14:23,error,89,1.153917226,1,TRUE,healthcare,"Millerhaven, Vietnam",enterprise
+553,186,4/16/2024 2:58,query,86,2.965664236,3,TRUE,finance,"Freemanfurt, Portugal",premium
+554,133,1/7/2024 22:16,feedback,39,1.716176996,5,FALSE,healthcare,"North James, Benin",premium
+555,130,2/11/2024 6:42,error,21,2.513958997,2,FALSE,education,"Sheltonstad, Eritrea",premium
+556,136,6/10/2024 13:29,error,64,2.135263994,5,FALSE,healthcare,"Jacksonport, Uruguay",free
+557,111,1/30/2024 11:32,feedback,83,1.504970795,3,FALSE,education,"Sharonfort, Bolivia",free
+558,143,5/29/2024 5:00,query,18,1.701320083,4,TRUE,education,"North Marc, Liberia",premium
+559,117,8/8/2024 5:35,feedback,94,2.188775478,2,FALSE,finance,"Gonzalezborough, Ukraine",premium
+560,172,8/16/2024 3:07,query,61,1.341154862,4,TRUE,healthcare,"Rochaburgh, Micronesia",enterprise
+561,152,5/31/2024 0:19,error,44,1.205911659,2,TRUE,healthcare,"Port Dominicborough, Eritrea",premium
+562,133,3/29/2024 11:25,feedback,93,1.37365365,5,FALSE,education,"New Royport, Bhutan",premium
+563,138,9/9/2024 22:38,error,82,1.549319902,1,TRUE,healthcare,"Lake Veronica, Central African Republic",enterprise
+564,132,3/6/2024 7:46,query,80,2.968657812,2,FALSE,healthcare,"New Pamelafurt, Israel",premium
+565,192,8/18/2024 12:22,feedback,51,1.283500051,3,FALSE,education,"South Jasonville, Turks and Caicos Islands",free
+566,104,8/18/2024 8:53,error,35,1.126328938,3,TRUE,education,"Tammyfurt, Solomon Islands",premium
+567,186,8/16/2024 2:22,query,53,2.734183295,2,TRUE,education,"Jennifermouth, Tajikistan",free
+568,181,3/15/2024 20:53,feedback,45,2.041931952,4,FALSE,healthcare,"New Tony, Cook Islands",free
+569,124,7/6/2024 3:14,feedback,36,2.285785287,2,TRUE,education,"Jenniferborough, Armenia",premium
+570,153,6/7/2024 19:45,feedback,42,1.383945776,1,TRUE,education,"Bryantport, Northern Mariana Islands",free
+571,134,4/11/2024 4:44,error,96,2.611162787,1,TRUE,education,"Aprilburgh, Belgium",free
+572,171,6/27/2024 11:50,error,61,2.717208856,5,FALSE,education,"Katelynfurt, Saint Lucia",enterprise
+573,110,5/2/2024 4:39,feedback,89,2.353407261,5,TRUE,education,"Lake Earlfort, Gambia",enterprise
+574,195,3/29/2024 4:59,feedback,75,2.886453322,4,FALSE,education,"East Randall, Costa Rica",free
+575,162,6/27/2024 12:54,query,64,1.05163598,5,TRUE,finance,"Alyssashire, Sweden",enterprise
+576,145,7/29/2024 13:18,feedback,64,2.394881658,3,FALSE,healthcare,"South Sean, Tonga",free
+577,132,7/2/2024 7:35,error,62,2.041619592,3,FALSE,healthcare,"Masonside, Aruba",premium
+578,181,2/18/2024 3:12,error,58,1.869978934,3,FALSE,healthcare,"Charlesland, Heard Island and McDonald Islands",free
+579,161,9/1/2024 5:01,error,24,1.891200774,2,FALSE,finance,"Orrbury, Djibouti",free
+580,191,9/8/2024 21:17,error,76,2.938933782,2,FALSE,finance,"Williamsport, Congo",premium
+581,120,5/31/2024 17:03,feedback,87,1.710440748,3,TRUE,finance,"Jonesmouth, Iran",free
+582,172,1/30/2024 15:37,feedback,72,1.761482498,2,TRUE,finance,"Williamsbury, Swaziland",premium
+583,179,5/28/2024 6:09,query,72,2.013681802,2,FALSE,healthcare,"Smithland, Bulgaria",premium
+584,163,5/14/2024 10:00,error,94,2.620784942,3,TRUE,education,"North Pamelaville, Kazakhstan",enterprise
+585,157,8/3/2024 0:24,feedback,72,1.325391485,4,TRUE,education,"Stephaniefurt, Myanmar",free
+586,118,6/7/2024 17:12,query,99,2.63703498,1,FALSE,education,"Danielburgh, Mali",enterprise
+587,182,8/31/2024 8:30,error,94,1.451998374,2,TRUE,healthcare,"Joshualand, Dominican Republic",enterprise
+588,148,7/6/2024 20:59,error,51,1.64518712,3,FALSE,healthcare,"Audreystad, Pakistan",enterprise
+589,149,6/29/2024 2:21,feedback,43,1.553566075,3,FALSE,healthcare,"Lake Jennifer, Ireland",free
+590,133,7/28/2024 15:09,feedback,50,1.287239086,2,TRUE,finance,"Elijahside, Yemen",premium
+591,164,8/24/2024 10:52,query,17,2.689078174,3,TRUE,healthcare,"South Christopherville, Tuvalu",enterprise
+592,109,8/22/2024 1:42,feedback,53,2.405157183,4,TRUE,healthcare,"New Curtis, Nauru",premium
+593,156,1/22/2024 0:10,query,31,2.537575456,4,FALSE,education,"South Pamela, Syrian Arab Republic",enterprise
+594,126,9/9/2024 21:53,query,39,1.349875436,4,TRUE,finance,"Meredithfurt, Spain",premium
+595,120,2/7/2024 4:00,error,17,2.36671892,1,TRUE,finance,"Whitneyfurt, Martinique",premium
+596,175,1/13/2024 16:47,query,79,1.311320296,1,FALSE,healthcare,"Alexland, Ethiopia",free
+597,102,8/21/2024 16:14,error,48,1.927128287,2,TRUE,education,"Meyermouth, Saint Vincent and the Grenadines",free
+598,146,7/11/2024 1:16,error,82,2.552603963,4,FALSE,education,"North Jacobside, New Zealand",premium
+599,131,7/15/2024 15:09,query,89,1.21168715,3,TRUE,finance,"Lake Jennifertown, Japan",free
+600,183,7/10/2024 11:12,feedback,65,2.668117872,3,FALSE,healthcare,"West Melissaborough, Solomon Islands",enterprise
+601,115,2/19/2024 21:01,query,45,2.338515383,4,FALSE,healthcare,"Juliaborough, Norway",free
+602,165,3/22/2024 3:36,error,97,2.751603881,4,TRUE,finance,"East Stevenport, Romania",enterprise
+603,155,8/19/2024 3:44,feedback,25,1.691284334,1,TRUE,education,"Roachshire, Honduras",enterprise
+604,164,2/10/2024 8:34,error,22,2.935388834,5,TRUE,education,"Connieberg, Iran",premium
+605,148,9/6/2024 5:28,feedback,21,1.214270664,4,FALSE,finance,"Floresland, French Guiana",premium
+606,161,6/19/2024 0:34,error,34,1.09766917,2,FALSE,finance,"Mcgeeborough, Heard Island and McDonald Islands",enterprise
+607,105,2/2/2024 1:51,error,79,1.470291091,2,TRUE,finance,"Davidmouth, Sweden",enterprise
+608,126,3/11/2024 9:59,query,55,2.071621164,3,FALSE,healthcare,"Jasonstad, Burundi",premium
+609,146,7/6/2024 21:43,query,56,2.043864724,1,FALSE,education,"Thomaschester, United Kingdom",free
+610,128,7/2/2024 11:21,error,72,2.475955494,3,FALSE,education,"New Colleenbury, Saint Lucia",free
+611,167,7/29/2024 5:18,error,49,1.553484609,2,TRUE,finance,"Lake Kayla, Norway",premium
+612,151,3/9/2024 0:14,error,30,1.572082371,2,FALSE,finance,"New Marco, Korea",enterprise
+613,157,5/28/2024 15:03,query,36,1.585348129,3,FALSE,healthcare,"South Ginamouth, Bouvet Island (Bouvetoya)",premium
+614,149,6/21/2024 9:45,feedback,39,1.323166573,1,FALSE,finance,"Stephensontown, Serbia",free
+615,197,7/30/2024 6:28,error,25,2.492768116,2,TRUE,healthcare,"New Breannastad, Mayotte",premium
+616,146,8/15/2024 10:46,error,87,2.784440432,4,TRUE,education,"North James, Congo",premium
+617,160,3/1/2024 22:48,feedback,74,1.483060789,1,TRUE,healthcare,"Lake Lauraborough, French Southern Territories",enterprise
+618,161,5/14/2024 18:24,error,50,1.308541551,4,TRUE,finance,"Lake Cindy, Saint Martin",premium
+619,198,4/19/2024 5:17,error,24,1.832641381,4,TRUE,finance,"Tylerton, Denmark",premium
+620,131,1/2/2024 12:53,feedback,23,2.532873146,3,TRUE,healthcare,"Chantown, Hong Kong",free
+621,109,3/17/2024 8:37,feedback,42,2.060100872,4,TRUE,education,"Spencermouth, Costa Rica",premium
+622,182,4/16/2024 16:04,error,35,2.39417721,3,FALSE,education,"Port Daniellebury, Bhutan",enterprise
+623,173,8/13/2024 23:54,error,82,2.936310147,4,FALSE,education,"Cohenmouth, Italy",free
+624,179,7/15/2024 20:35,query,49,1.523642481,4,TRUE,finance,"Melissaview, Niger",premium
+625,114,4/21/2024 23:51,feedback,26,2.703770958,5,TRUE,education,"Port James, Taiwan",free
+626,123,3/12/2024 7:10,query,84,1.192031669,3,FALSE,finance,"Mitchellstad, Macedonia",enterprise
+627,172,7/18/2024 5:45,error,24,1.622971272,1,TRUE,finance,"Parkerport, Cote d'Ivoire",enterprise
+628,152,1/12/2024 11:01,feedback,90,1.546283437,4,FALSE,healthcare,"East Ryanton, Martinique",enterprise
+629,198,1/10/2024 9:42,error,34,1.327239135,2,FALSE,finance,"Heatherhaven, Mali",free
+630,114,3/22/2024 3:51,feedback,50,1.076005113,1,FALSE,healthcare,"New Danielberg, Andorra",enterprise
+631,160,3/27/2024 16:26,query,18,1.308863518,2,TRUE,healthcare,"West Lawrence, British Indian Ocean Territory (Chagos Archipelago)",enterprise
+632,154,2/20/2024 15:11,error,16,1.861563956,1,FALSE,finance,"Port Michele, American Samoa",premium
+633,104,1/15/2024 19:12,query,19,1.504049299,2,TRUE,healthcare,"Scottton, Cyprus",free
+634,167,3/21/2024 21:02,feedback,57,1.774275116,1,FALSE,healthcare,"North April, Macao",free
+635,187,6/28/2024 14:25,feedback,72,1.805304555,1,TRUE,education,"Knightville, Tanzania",free
+636,180,6/12/2024 2:39,feedback,22,1.524683154,1,FALSE,healthcare,"Tommyview, Malta",premium
+637,190,6/9/2024 14:06,query,42,1.691834444,2,TRUE,healthcare,"Kingborough, British Virgin Islands",premium
+638,180,7/12/2024 23:45,query,13,1.384235665,3,TRUE,education,"Xaviermouth, United States of America",free
+639,108,8/10/2024 11:05,feedback,65,1.355119857,3,TRUE,finance,"Brentbury, Mozambique",free
+640,182,4/8/2024 19:53,query,46,1.816047647,4,TRUE,education,"East Kellie, Kuwait",premium
+641,164,2/12/2024 21:57,query,62,2.532794969,3,FALSE,healthcare,"North David, Georgia",free
+642,102,7/10/2024 13:32,query,81,2.217683436,2,TRUE,education,"Santiagoside, Korea",free
+643,104,8/9/2024 1:28,error,97,1.30874012,1,FALSE,healthcare,"Stephenton, Timor-Leste",premium
+644,183,4/2/2024 2:28,error,63,2.692315393,4,FALSE,finance,"East Robin, Malta",free
+645,140,9/8/2024 19:11,feedback,73,2.495719231,4,TRUE,healthcare,"West Cindyville, Fiji",free
+646,199,2/26/2024 23:12,query,92,2.009985079,2,TRUE,education,"Port Nathantown, Niger",premium
+647,129,2/6/2024 10:46,feedback,97,1.235826916,2,FALSE,healthcare,"Laurafurt, Philippines",free
+648,154,5/9/2024 2:31,query,41,1.335651397,1,TRUE,healthcare,"Lake Jasonberg, Saint Kitts and Nevis",enterprise
+649,173,8/4/2024 18:39,query,56,1.004273791,3,TRUE,finance,"Tylerville, Tanzania",free
+650,157,1/20/2024 3:59,error,47,2.180113517,3,FALSE,education,"West Charles, Marshall Islands",enterprise
+651,107,8/25/2024 2:10,error,28,1.952789432,5,TRUE,healthcare,"Megantown, Saint Vincent and the Grenadines",enterprise
+652,136,2/19/2024 22:06,feedback,16,2.602155692,5,TRUE,finance,"West Erin, Poland",enterprise
+653,176,1/31/2024 14:02,query,99,2.904687096,4,TRUE,education,"Port Lindsayhaven, Turks and Caicos Islands",enterprise
+654,104,4/7/2024 9:47,query,22,1.607972372,1,TRUE,healthcare,"Lake Douglasfurt, Macedonia",premium
+655,110,7/13/2024 22:01,error,58,2.053500236,1,TRUE,education,"West Karen, Senegal",enterprise
+656,161,3/5/2024 15:17,error,74,2.480180822,5,TRUE,finance,"Chelseamouth, Palau",enterprise
+657,196,7/9/2024 0:23,query,71,2.27006419,3,TRUE,education,"Andrewmouth, Luxembourg",premium
+658,109,4/20/2024 11:59,feedback,69,2.782734188,3,FALSE,education,"New Jimmy, Saudi Arabia",enterprise
+659,110,8/14/2024 5:05,feedback,63,2.397520333,4,TRUE,finance,"Transide, Gibraltar",free
+660,181,2/19/2024 17:14,feedback,84,1.986285614,1,TRUE,finance,"Barbaraton, Monaco",free
+661,196,2/4/2024 14:08,error,99,1.046107073,3,FALSE,finance,"East Kevinside, French Southern Territories",enterprise
+662,140,8/5/2024 15:19,error,43,2.067036311,2,FALSE,education,"Johnland, Malawi",free
+663,135,4/20/2024 7:30,error,10,2.128809758,1,TRUE,healthcare,"Nancybury, Tunisia",enterprise
+664,128,1/23/2024 22:38,query,73,2.27910496,2,TRUE,finance,"East Lee, Haiti",premium
+665,172,2/21/2024 15:01,feedback,95,2.597656857,5,FALSE,healthcare,"Port Janet, Guinea-Bissau",enterprise
+666,151,2/20/2024 7:54,query,73,1.289377195,2,TRUE,education,"Lake Lisa, Anguilla",enterprise
+667,177,1/8/2024 22:28,feedback,55,1.262293601,4,TRUE,healthcare,"Jamieland, Kiribati",enterprise
+668,173,6/24/2024 11:30,error,57,2.39215529,3,FALSE,education,"Lake Timothymouth, Vietnam",enterprise
+669,142,3/15/2024 13:44,query,53,1.097430991,4,FALSE,healthcare,"North Dawn, Liechtenstein",premium
+670,166,8/26/2024 1:08,query,75,2.940158331,2,TRUE,healthcare,"South Laura, Venezuela",free
+671,113,4/12/2024 19:04,query,53,1.141693507,1,TRUE,healthcare,"Port Andrea, Portugal",free
+672,123,7/23/2024 3:33,feedback,77,2.888460258,2,FALSE,healthcare,"Lisaburgh, United States of America",premium
+673,164,5/4/2024 12:19,query,58,1.991142233,4,FALSE,finance,"Victorburgh, Comoros",free
+674,130,6/2/2024 21:33,query,90,2.487833883,2,FALSE,finance,"Lake Amandaland, Georgia",premium
+675,140,7/2/2024 6:07,query,44,2.428213631,4,TRUE,education,"Karenshire, Nepal",free
+676,163,6/16/2024 11:30,feedback,64,2.831082156,2,TRUE,education,"South Lucasville, Burkina Faso",enterprise
+677,185,4/25/2024 19:41,feedback,59,1.136934071,1,TRUE,healthcare,"North James, Montenegro",free
+678,145,6/7/2024 5:20,error,77,1.013763187,5,TRUE,healthcare,"South Rachel, India",enterprise
+679,190,5/6/2024 21:02,query,61,2.089757906,5,FALSE,healthcare,"Rhondaberg, Equatorial Guinea",free
+680,158,1/9/2024 19:42,query,62,2.802785098,4,TRUE,finance,"Prattborough, Tajikistan",free
+681,176,6/14/2024 3:10,feedback,69,2.302970143,3,TRUE,finance,"Frankborough, Lebanon",enterprise
+682,165,2/12/2024 17:29,feedback,87,2.62503279,3,TRUE,finance,"Paulabury, Congo",enterprise
+683,112,1/6/2024 17:07,query,52,2.283408849,3,FALSE,finance,"North Melissa, Eritrea",free
+684,166,1/6/2024 3:03,error,10,2.597164195,1,TRUE,finance,"Hendersonmouth, Costa Rica",enterprise
+685,135,7/1/2024 0:12,error,84,1.225855899,3,FALSE,education,"Zimmermanfort, Jersey",free
+686,146,5/21/2024 13:00,error,70,1.770240046,4,TRUE,education,"Lake Dawnmouth, Montenegro",free
+687,178,7/24/2024 19:37,error,86,1.9866486,5,TRUE,finance,"Nicholsbury, Comoros",premium
+688,137,2/17/2024 22:27,feedback,19,1.978514686,3,FALSE,education,"Brownshire, Gambia",enterprise
+689,149,4/13/2024 3:55,query,23,1.986813752,4,TRUE,healthcare,"North Natashaview, Suriname",premium
+690,178,7/24/2024 5:42,error,98,1.85777597,1,FALSE,finance,"North Margaretfurt, Finland",premium
+691,163,5/18/2024 8:54,error,65,1.876838443,5,FALSE,finance,"Andersonmouth, Isle of Man",free
+692,150,6/1/2024 12:29,query,91,2.160260278,4,FALSE,finance,"Timothyport, Falkland Islands (Malvinas)",premium
+693,187,7/1/2024 6:09,error,82,2.799399849,2,TRUE,finance,"Lake Paulhaven, Martinique",enterprise
+694,147,8/25/2024 16:28,query,48,1.648383157,1,FALSE,education,"West Terri, Saint Kitts and Nevis",enterprise
+695,149,5/28/2024 9:55,error,42,2.129519919,2,TRUE,healthcare,"South Michael, Saint Helena",enterprise
+696,123,7/5/2024 15:48,query,75,1.311856889,1,FALSE,education,"Stevenview, Jamaica",premium
+697,175,5/15/2024 0:06,query,24,1.223298272,3,FALSE,finance,"Bellmouth, Saint Pierre and Miquelon",enterprise
+698,147,4/20/2024 23:27,query,37,2.90101595,4,TRUE,finance,"Lake Bethport, Svalbard & Jan Mayen Islands",enterprise
+699,183,3/8/2024 11:25,error,43,2.74696603,2,TRUE,healthcare,"Grahamside, Falkland Islands (Malvinas)",premium
+700,146,5/1/2024 3:31,query,50,2.760440676,5,TRUE,finance,"Johnland, New Caledonia",enterprise
+701,162,2/5/2024 6:54,query,27,2.567661292,1,FALSE,finance,"Cherrymouth, Cocos (Keeling) Islands",premium
+702,142,9/2/2024 2:17,error,82,2.728356585,2,TRUE,healthcare,"South Jennifer, Mozambique",free
+703,199,2/6/2024 9:37,query,32,1.788483224,4,TRUE,finance,"North Jenniferbury, India",enterprise
+704,193,8/21/2024 21:56,feedback,16,2.246023615,5,TRUE,finance,"North Michael, Mozambique",premium
+705,134,2/4/2024 8:28,feedback,59,1.907524441,5,FALSE,finance,"Thompsonchester, French Polynesia",premium
+706,124,1/13/2024 4:33,feedback,54,1.802825132,3,FALSE,healthcare,"Annechester, Falkland Islands (Malvinas)",premium
+707,127,3/25/2024 16:04,feedback,85,1.67430014,1,FALSE,healthcare,"Lake Nathaniel, Singapore",enterprise
+708,102,5/22/2024 20:54,query,20,2.602568175,2,FALSE,healthcare,"Bruceside, Macedonia",premium
+709,141,3/28/2024 16:38,error,61,1.242407777,1,FALSE,education,"Adrianmouth, Niue",enterprise
+710,174,1/28/2024 2:51,error,44,1.239383054,2,TRUE,healthcare,"New Fred, Botswana",free
+711,156,1/26/2024 23:10,error,71,2.11013092,2,TRUE,education,"Port Emily, Monaco",enterprise
+712,169,1/16/2024 3:15,query,94,1.820999604,2,TRUE,healthcare,"South Jenniferville, Panama",free
+713,105,3/26/2024 6:22,feedback,67,2.90287535,2,FALSE,education,"Nashville, Benin",premium
+714,163,7/24/2024 15:48,query,29,1.994637611,3,FALSE,education,"Port Kevin, Honduras",premium
+715,190,1/9/2024 15:03,error,65,1.3517219,5,TRUE,education,"Pereztown, Djibouti",premium
+716,171,1/2/2024 22:48,query,46,1.116408797,3,TRUE,finance,"Hamiltonport, Russian Federation",free
+717,146,8/9/2024 23:14,feedback,50,1.881314632,5,TRUE,healthcare,"Sarahhaven, Spain",premium
+718,103,7/29/2024 10:32,query,36,2.48134607,2,FALSE,education,"Nicholasview, Macao",free
+719,123,6/26/2024 7:33,error,89,2.154334635,2,FALSE,finance,"Garrettville, Saint Helena",free
+720,131,7/10/2024 15:43,query,43,2.820721104,4,FALSE,education,"Perezbury, Christmas Island",enterprise
+721,147,8/21/2024 18:45,feedback,46,1.463358521,5,TRUE,education,"New Davidchester, Liberia",enterprise
+722,127,5/4/2024 19:41,error,18,1.033702502,4,FALSE,healthcare,"New Jared, Ecuador",free
+723,187,1/30/2024 14:29,error,30,2.262972084,2,TRUE,finance,"North Steven, Mali",premium
+724,109,2/18/2024 22:21,feedback,18,2.27484397,3,FALSE,healthcare,"Shanechester, Cyprus",free
+725,146,7/7/2024 6:28,error,42,2.504578329,2,FALSE,finance,"South Craig, Liechtenstein",enterprise
+726,177,8/22/2024 12:13,query,79,1.800527625,1,FALSE,healthcare,"North Christopher, Svalbard & Jan Mayen Islands",premium
+727,166,2/29/2024 4:57,query,65,2.453881237,2,TRUE,finance,"Heathertown, Nauru",premium
+728,120,2/18/2024 9:21,feedback,84,1.332839532,3,FALSE,finance,"Danielshire, Iceland",premium
+729,116,5/17/2024 5:54,feedback,83,2.45003316,5,TRUE,education,"East Michael, Bahamas",enterprise
+730,189,6/22/2024 15:28,query,54,2.076178237,5,FALSE,education,"Lake Deniseton, Sudan",free
+731,160,2/26/2024 18:21,error,63,2.896226408,3,TRUE,healthcare,"West Dianeville, Isle of Man",premium
+732,175,5/22/2024 4:05,feedback,55,1.299262188,5,TRUE,finance,"Reyesborough, Guyana",free
+733,181,5/4/2024 20:14,error,44,2.809710789,1,TRUE,education,"Port Perrytown, Cook Islands",enterprise
+734,186,2/15/2024 3:45,error,87,1.841568006,4,TRUE,education,"West Marissamouth, Slovenia",premium
+735,167,2/16/2024 4:00,error,98,2.962929677,5,TRUE,finance,"Port Ashleyfurt, Guyana",premium
+736,125,7/8/2024 15:01,feedback,50,2.773048298,1,TRUE,education,"South Crystal, Luxembourg",free
+737,117,4/27/2024 12:42,error,92,2.132118109,2,TRUE,education,"Jeremyhaven, Yemen",enterprise
+738,137,3/19/2024 18:52,feedback,89,1.277255015,2,TRUE,finance,"Tiffanymouth, South Africa",free
+739,117,3/16/2024 20:53,query,11,1.765154822,5,FALSE,healthcare,"Lake Andrewburgh, Aruba",enterprise
+740,130,2/6/2024 2:26,query,79,1.777772146,5,TRUE,healthcare,"East Frankmouth, French Southern Territories",enterprise
+741,100,4/23/2024 11:34,error,69,2.006435286,1,FALSE,finance,"Webbchester, Luxembourg",free
+742,168,3/14/2024 12:10,feedback,42,1.959988127,5,FALSE,healthcare,"Franciscobury, Cocos (Keeling) Islands",premium
+743,166,2/12/2024 3:55,error,14,2.827823818,2,TRUE,healthcare,"East Christopher, Martinique",premium
+744,136,4/14/2024 1:58,feedback,85,2.56400336,3,FALSE,education,"Elizabethberg, Costa Rica",premium
+745,127,4/6/2024 8:30,error,65,2.768604359,4,FALSE,healthcare,"Staceyport, Fiji",premium
+746,108,7/21/2024 12:42,feedback,18,2.733424503,5,TRUE,healthcare,"Cheyenneshire, Germany",premium
+747,114,5/9/2024 1:31,query,95,2.204945965,3,TRUE,finance,"Port Shawnfort, Antigua and Barbuda",enterprise
+748,100,1/24/2024 1:57,error,65,1.382132162,4,TRUE,education,"Muellerbury, Monaco",premium
+749,126,2/29/2024 21:17,feedback,53,1.243794546,3,TRUE,healthcare,"Annahaven, Bolivia",premium
+750,110,3/19/2024 14:05,error,54,1.647259766,4,TRUE,education,"South Christinefurt, Bangladesh",premium
+751,186,7/8/2024 18:37,query,39,2.836983029,1,TRUE,healthcare,"North Zachary, Jordan",free
+752,120,8/27/2024 1:24,feedback,21,2.894695915,4,TRUE,finance,"Jeffreyshire, Mauritania",enterprise
+753,116,1/10/2024 5:42,error,83,2.016837486,3,FALSE,education,"Port Amanda, Cameroon",enterprise
+754,173,7/10/2024 14:02,feedback,67,2.881600775,5,FALSE,finance,"East Kyle, Italy",premium
+755,191,9/12/2024 3:35,feedback,54,1.351991794,2,FALSE,education,"Port Destiny, Philippines",free
+756,197,2/25/2024 3:35,query,32,1.957991517,2,FALSE,healthcare,"East Cindy, Slovenia",premium
+757,106,5/10/2024 12:29,error,35,2.686812632,4,TRUE,finance,"Wrightmouth, Ireland",enterprise
+758,186,8/10/2024 23:17,error,57,1.368560248,4,TRUE,healthcare,"Marybury, Northern Mariana Islands",premium
+759,180,2/13/2024 5:11,query,12,2.417732485,5,FALSE,education,"West Kyleview, Slovenia",free
+760,152,6/23/2024 12:22,query,25,1.98950485,4,TRUE,finance,"West Justin, Sri Lanka",enterprise
+761,170,3/27/2024 13:30,query,56,2.523461136,2,FALSE,finance,"Port Paulview, Mongolia",enterprise
+762,194,9/12/2024 3:21,query,73,1.52820748,2,TRUE,education,"Port Sheliashire, Cape Verde",enterprise
+763,124,7/11/2024 21:11,feedback,33,1.744874653,4,TRUE,healthcare,"East Michaelport, Peru",free
+764,196,9/11/2024 21:28,feedback,31,1.158333003,2,TRUE,education,"West Jenniferburgh, Australia",premium
+765,112,1/11/2024 23:41,query,88,2.608386241,3,TRUE,finance,"Port Sierraville, Serbia",free
+766,144,1/25/2024 11:45,feedback,85,1.696319227,5,FALSE,healthcare,"Hernandezside, United Kingdom",premium
+767,185,4/18/2024 7:02,feedback,75,2.927844191,2,TRUE,education,"East Christopher, France",enterprise
+768,194,7/13/2024 16:15,query,25,1.475562524,1,TRUE,finance,"Lindseymouth, United Arab Emirates",enterprise
+769,142,4/27/2024 9:10,error,59,2.247066503,2,FALSE,finance,"Rossmouth, Italy",free
+770,176,8/21/2024 11:18,error,77,2.711985498,1,TRUE,finance,"Port Tim, Norfolk Island",enterprise
+771,121,5/12/2024 11:41,feedback,13,2.277011257,5,FALSE,education,"North Gregorymouth, Paraguay",enterprise
+772,177,3/6/2024 14:19,error,37,1.400779331,4,FALSE,healthcare,"Whiteland, Nigeria",free
+773,101,7/21/2024 12:48,feedback,94,1.669716576,5,FALSE,finance,"Hallport, Saint Lucia",enterprise
+774,153,5/15/2024 7:45,query,73,2.767882736,4,TRUE,healthcare,"Simmonsfurt, Algeria",free
+775,167,4/29/2024 14:22,query,68,2.617660255,5,TRUE,finance,"Wellsland, Trinidad and Tobago",free
+776,183,5/5/2024 20:59,feedback,92,1.630949396,5,TRUE,education,"Lake Troy, Kenya",enterprise
+777,146,3/12/2024 6:29,query,41,1.780226324,1,FALSE,finance,"Lake Maria, Isle of Man",enterprise
+778,183,3/20/2024 15:04,query,50,1.531166382,4,FALSE,education,"Whiteview, Gibraltar",enterprise
+779,164,3/27/2024 20:17,error,83,1.861604087,5,TRUE,finance,"Choiview, Mali",enterprise
+780,123,7/23/2024 4:41,query,77,2.472185896,3,FALSE,healthcare,"Lake Amandafort, Vietnam",enterprise
+781,152,1/23/2024 4:26,feedback,14,1.692352035,4,FALSE,healthcare,"Mooremouth, Malaysia",free
+782,105,1/3/2024 18:55,query,18,2.577994513,4,FALSE,education,"Paceton, Bulgaria",free
+783,148,5/19/2024 16:45,feedback,71,2.570632725,3,TRUE,finance,"Lambburgh, Djibouti",enterprise
+784,150,4/5/2024 19:56,query,18,2.384828326,1,TRUE,education,"South Jenniferburgh, Pitcairn Islands",free
+785,151,6/14/2024 4:57,error,14,2.607820774,5,TRUE,education,"Camposstad, Togo",premium
+786,113,8/5/2024 6:16,feedback,97,2.963888737,3,TRUE,healthcare,"Carpenterton, Saudi Arabia",free
+787,182,3/17/2024 19:08,error,48,1.206450157,1,TRUE,healthcare,"Timothyfort, Ghana",free
+788,181,7/18/2024 7:20,error,55,1.793862709,4,FALSE,finance,"Port Brian, Burundi",premium
+789,180,7/12/2024 23:31,query,77,1.147916766,4,TRUE,education,"Smithton, Burundi",enterprise
+790,161,9/7/2024 6:01,error,59,1.806234216,3,TRUE,education,"North Virginia, Liechtenstein",free
+791,175,5/4/2024 23:27,feedback,52,1.747078837,4,FALSE,finance,"Jimfort, Seychelles",free
+792,158,1/21/2024 14:48,query,19,1.943967386,4,TRUE,education,"South Melissaville, Martinique",enterprise
+793,105,7/21/2024 22:17,query,92,2.377390266,3,FALSE,education,"West Melissaport, Malawi",free
+794,140,7/19/2024 14:11,query,96,1.444532145,2,FALSE,healthcare,"New Bethview, Dominican Republic",premium
+795,155,3/30/2024 16:20,query,30,1.597543867,3,FALSE,education,"Sarahville, Mozambique",premium
+796,137,6/24/2024 19:54,feedback,67,1.125810225,1,TRUE,healthcare,"Lake Michael, Thailand",free
+797,108,5/23/2024 9:00,error,13,1.819416395,2,TRUE,education,"Lake Julie, Niger",free
+798,162,6/14/2024 18:17,query,34,2.491636277,5,TRUE,education,"North Danielle, Australia",free
+799,182,2/16/2024 19:32,error,21,1.045284496,1,TRUE,education,"Teresafort, Serbia",premium
+800,181,8/1/2024 7:47,feedback,43,1.485946709,2,FALSE,finance,"Port Brandi, Malta",enterprise
+801,149,1/22/2024 11:33,query,49,2.001312396,1,FALSE,finance,"West Megan, Uganda",premium
+802,188,3/9/2024 13:31,query,35,1.569416351,4,TRUE,finance,"East Justintown, Ireland",enterprise
+803,135,7/5/2024 9:21,error,15,1.955927257,2,TRUE,healthcare,"Ginaside, Saint Barthelemy",enterprise
+804,187,2/2/2024 2:15,error,51,2.061800009,2,TRUE,education,"East Douglas, Costa Rica",free
+805,116,6/10/2024 17:44,error,99,1.817917708,5,TRUE,education,"Lake Ronniehaven, Ireland",enterprise
+806,172,4/1/2024 6:34,error,95,1.20198693,4,FALSE,education,"Mitchelltown, Botswana",premium
+807,144,8/15/2024 14:25,query,99,1.676696112,4,TRUE,education,"Daniellechester, Panama",free
+808,122,7/27/2024 3:28,error,68,2.284489974,3,FALSE,finance,"Gilesbury, Tajikistan",free
+809,142,2/26/2024 1:49,error,83,1.07062671,1,FALSE,education,"Tamaraborough, Peru",free
+810,181,5/18/2024 8:47,query,33,1.141149359,2,TRUE,education,"Herreratown, Syrian Arab Republic",premium
+811,141,9/8/2024 10:16,feedback,24,2.70463296,2,FALSE,finance,"Christopherburgh, Paraguay",premium
+812,182,8/7/2024 9:01,query,72,2.189092451,3,FALSE,healthcare,"New Mitchell, Azerbaijan",premium
+813,173,1/31/2024 4:52,error,62,2.567492069,4,FALSE,healthcare,"West William, Papua New Guinea",premium
+814,121,5/5/2024 17:23,query,86,1.856738933,3,TRUE,healthcare,"Christyside, Bhutan",free
+815,140,6/22/2024 6:45,error,68,1.160905011,3,FALSE,finance,"Cantrelltown, Cote d'Ivoire",premium
+816,167,7/23/2024 21:55,error,66,1.44416224,1,FALSE,healthcare,"South George, Vietnam",free
+817,157,1/28/2024 16:52,error,98,1.932176859,5,FALSE,healthcare,"Curtisshire, Fiji",free
+818,174,3/1/2024 6:11,feedback,36,1.151762843,5,TRUE,finance,"Schultzborough, Moldova",free
+819,146,7/14/2024 22:17,query,44,1.407209264,3,TRUE,education,"East Denisefort, Estonia",premium
+820,198,3/2/2024 8:12,error,63,1.779709622,5,FALSE,education,"Hillport, Netherlands",enterprise
+821,106,6/29/2024 17:41,error,22,1.81535829,5,FALSE,finance,"Ferrellmouth, New Caledonia",premium
+822,111,4/26/2024 9:26,error,33,1.341355036,4,TRUE,finance,"North Johnland, French Guiana",enterprise
+823,111,4/27/2024 15:30,feedback,78,2.18342824,2,FALSE,finance,"Frederickbury, Samoa",premium
+824,196,4/19/2024 10:41,feedback,52,1.08847771,2,FALSE,education,"East Tonyburgh, Antigua and Barbuda",free
+825,121,1/5/2024 22:51,feedback,86,1.690644507,2,FALSE,finance,"South Collintown, Greenland",free
+826,165,6/30/2024 9:04,error,56,2.909552269,4,FALSE,healthcare,"North Tyrone, Saint Kitts and Nevis",enterprise
+827,158,1/7/2024 0:58,query,32,1.500128543,2,TRUE,healthcare,"Lake Jared, Cook Islands",enterprise
+828,136,1/29/2024 2:37,feedback,84,1.491089259,4,FALSE,education,"West Christianland, Uganda",free
+829,198,2/29/2024 21:32,feedback,38,2.069958016,4,FALSE,finance,"Lake Michelemouth, Sao Tome and Principe",premium
+830,179,7/4/2024 6:20,feedback,36,2.678863938,3,FALSE,healthcare,"Johnstad, Canada",free
+831,173,8/31/2024 4:13,query,45,2.580990515,3,TRUE,finance,"Crystalhaven, Mauritius",premium
+832,189,1/19/2024 15:15,query,86,1.783817746,3,FALSE,healthcare,"Lake Jacob, Bangladesh",enterprise
+833,171,6/29/2024 12:02,query,28,2.971934492,1,FALSE,finance,"Rodriguezfort, Bhutan",free
+834,171,5/16/2024 8:33,query,85,2.112285892,3,FALSE,finance,"West Tyler, Holy See (Vatican City State)",free
+835,197,3/12/2024 10:06,feedback,47,2.010978442,2,FALSE,healthcare,"Chadmouth, Philippines",enterprise
+836,106,1/10/2024 4:00,query,72,2.040762926,2,TRUE,healthcare,"Johnsonton, South Georgia and the South Sandwich Islands",free
+837,125,5/17/2024 19:29,feedback,34,2.128156084,5,FALSE,education,"East Jeffrey, Bouvet Island (Bouvetoya)",premium
+838,106,7/27/2024 21:04,feedback,91,2.010255766,1,FALSE,education,"South Kristine, Croatia",enterprise
+839,102,5/12/2024 13:21,query,10,1.954314606,1,FALSE,education,"North Dana, Faroe Islands",free
+840,134,3/16/2024 19:20,error,73,2.563040695,3,FALSE,finance,"Port Ronald, Saint Barthelemy",free
+841,192,1/15/2024 5:30,feedback,39,2.194404013,1,TRUE,healthcare,"Benitezchester, Djibouti",enterprise
+842,175,9/1/2024 21:43,query,30,2.430899569,2,FALSE,healthcare,"North Phillip, Falkland Islands (Malvinas)",free
+843,133,7/28/2024 6:21,error,76,1.649579658,5,TRUE,finance,"Port Troy, Saint Kitts and Nevis",enterprise
+844,120,6/27/2024 2:16,error,67,1.132420874,5,TRUE,healthcare,"Lake Jade, Angola",enterprise
+845,169,8/14/2024 10:39,query,77,1.601958485,1,TRUE,healthcare,"Navarroville, Cape Verde",enterprise
+846,163,4/26/2024 4:23,error,18,1.486398894,2,TRUE,healthcare,"Robertfurt, Bahrain",premium
+847,167,2/19/2024 15:24,feedback,40,2.852442177,3,TRUE,education,"Richardberg, Indonesia",enterprise
+848,124,3/13/2024 21:38,error,56,1.27204688,2,FALSE,finance,"North Amymouth, Colombia",enterprise
+849,163,6/30/2024 5:14,feedback,56,1.134620981,3,FALSE,finance,"East Tylerberg, Cape Verde",free
+850,127,5/1/2024 3:22,query,94,1.575820512,4,FALSE,healthcare,"Lake Michael, Hungary",enterprise
+851,158,7/18/2024 11:59,query,23,1.560543848,3,FALSE,finance,"Simonport, Saint Martin",premium
+852,194,5/14/2024 5:40,feedback,83,1.895860322,1,TRUE,education,"Markview, Hungary",free
+853,123,4/4/2024 20:22,error,73,2.79706472,5,TRUE,healthcare,"Lake Kimberlyborough, Bouvet Island (Bouvetoya)",premium
+854,187,7/8/2024 4:27,error,15,2.149867056,3,TRUE,education,"Briannaport, Ecuador",free
+855,193,8/1/2024 18:44,error,69,2.457689341,4,TRUE,healthcare,"New Joeview, Nauru",free
+856,104,2/28/2024 21:58,feedback,84,1.98618627,2,FALSE,finance,"Mcclainborough, Christmas Island",premium
+857,141,2/28/2024 4:28,error,39,1.230889163,1,TRUE,healthcare,"East Codyburgh, Western Sahara",enterprise
+858,175,3/28/2024 13:46,error,83,2.310481345,2,TRUE,education,"North Timothybury, American Samoa",enterprise
+859,139,1/8/2024 12:08,error,53,1.422109735,2,TRUE,education,"Woodsview, Belarus",premium
+860,136,9/11/2024 8:55,feedback,44,1.131355369,4,TRUE,healthcare,"New Kayla, Saint Barthelemy",free
+861,160,4/13/2024 18:35,error,67,1.421259284,1,TRUE,finance,"Conleyhaven, Australia",enterprise
+862,160,1/14/2024 16:01,query,69,1.631461999,4,FALSE,healthcare,"Kristinabury, Libyan Arab Jamahiriya",premium
+863,154,9/11/2024 2:11,feedback,41,1.493546403,1,FALSE,finance,"Rothville, Oman",enterprise
+864,151,8/22/2024 22:20,feedback,35,2.999847985,1,FALSE,healthcare,"South John, Svalbard & Jan Mayen Islands",free
+865,113,6/14/2024 12:07,feedback,41,2.636264622,1,TRUE,education,"New Karen, Nigeria",free
+866,150,7/18/2024 10:05,feedback,60,1.379744999,1,FALSE,education,"Kathrynmouth, Saint Pierre and Miquelon",enterprise
+867,110,6/17/2024 21:08,query,70,1.174508871,4,TRUE,finance,"East Joyburgh, Liechtenstein",premium
+868,198,8/24/2024 13:11,error,69,1.465386676,2,FALSE,finance,"Valenzuelaburgh, Hong Kong",premium
+869,199,8/8/2024 3:39,feedback,37,1.253524083,4,FALSE,education,"South Shawnfurt, Moldova",free
+870,133,6/23/2024 4:33,feedback,53,2.896468988,4,FALSE,education,"West Shaun, Samoa",premium
+871,119,8/9/2024 23:46,query,22,2.767302993,2,TRUE,finance,"Jenniferfort, Azerbaijan",enterprise
+872,169,8/12/2024 19:01,feedback,42,2.129484126,3,TRUE,healthcare,"South Justinland, Bahrain",free
+873,159,6/22/2024 20:11,error,10,1.022827352,5,TRUE,education,"Perryfurt, Kiribati",enterprise
+874,192,2/17/2024 18:43,query,85,2.335990975,4,TRUE,finance,"Jamesville, Ireland",free
+875,117,1/8/2024 6:38,error,24,2.795056418,3,TRUE,healthcare,"Jennifershire, Slovakia (Slovak Republic)",enterprise
+876,164,9/2/2024 12:40,error,61,2.566727084,5,FALSE,finance,"Glassburgh, China",premium
+877,143,5/9/2024 20:45,feedback,94,2.230107917,1,TRUE,finance,"North James, Saint Helena",free
+878,124,1/19/2024 11:11,query,42,2.577460738,4,TRUE,education,"Nguyenport, Madagascar",free
+879,185,1/24/2024 17:43,error,18,2.666928168,1,TRUE,healthcare,"Mcdanielberg, Papua New Guinea",free
+880,162,8/14/2024 12:27,feedback,27,2.111561114,5,TRUE,finance,"New Corey, Bahrain",free
+881,147,2/24/2024 18:47,query,19,1.869613565,3,TRUE,education,"Tiffanytown, Sao Tome and Principe",free
+882,118,6/21/2024 9:44,feedback,21,2.858318882,1,FALSE,healthcare,"Cortezmouth, Tuvalu",premium
+883,199,8/12/2024 9:43,query,40,1.512286848,4,TRUE,education,"Donnahaven, Liechtenstein",free
+884,177,1/27/2024 15:54,query,56,1.615956428,5,FALSE,finance,"Christinatown, Guadeloupe",premium
+885,103,9/4/2024 15:40,error,83,2.951376254,2,TRUE,healthcare,"Thompsonside, Belize",premium
+886,164,8/18/2024 21:21,error,78,2.89110863,3,FALSE,education,"New Ronald, Swaziland",free
+887,111,8/22/2024 13:12,query,89,1.387391588,1,FALSE,finance,"West Ryanport, Solomon Islands",enterprise
+888,193,3/20/2024 3:26,query,56,2.572871393,3,TRUE,finance,"New Karen, Dominican Republic",free
+889,139,5/29/2024 7:02,query,46,1.703327627,1,FALSE,finance,"Salinastown, Saint Helena",enterprise
+890,196,8/6/2024 20:01,feedback,62,2.93659321,1,TRUE,finance,"Brandonbury, Moldova",enterprise
+891,183,8/26/2024 17:13,error,80,1.478397798,3,TRUE,healthcare,"Lake Richard, South Georgia and the South Sandwich Islands",premium
+892,183,8/3/2024 23:17,query,21,1.046587651,5,FALSE,healthcare,"North Alan, Greenland",premium
+893,144,5/23/2024 4:40,feedback,18,1.802713663,3,TRUE,healthcare,"North Frankview, Uzbekistan",premium
+894,164,6/17/2024 13:34,query,67,2.27274862,1,FALSE,finance,"East Amyfort, Bermuda",enterprise
+895,162,5/13/2024 20:20,feedback,92,2.329217198,1,TRUE,education,"Theresafurt, Jordan",premium
+896,127,2/15/2024 16:02,query,69,1.276566718,1,TRUE,healthcare,"East Robert, Djibouti",enterprise
+897,118,8/23/2024 9:29,query,10,1.352167836,2,FALSE,finance,"Kathleenbury, Nigeria",premium
+898,138,5/2/2024 20:05,query,20,1.645412459,1,TRUE,education,"Woodshire, Japan",free
+899,160,2/22/2024 6:57,error,87,1.509114953,3,TRUE,healthcare,"Markstad, Greenland",free
+900,133,8/4/2024 10:47,feedback,98,1.282020376,1,TRUE,education,"Josephside, Tuvalu",premium
+901,171,3/21/2024 16:55,feedback,46,1.303669109,5,FALSE,finance,"South Maryview, Norfolk Island",premium
+902,191,5/13/2024 15:15,error,51,1.355670965,5,TRUE,finance,"North Mark, Libyan Arab Jamahiriya",premium
+903,164,5/3/2024 11:19,error,37,2.443015936,3,TRUE,healthcare,"South Aaron, Afghanistan",enterprise
+904,108,1/14/2024 6:43,error,34,1.583909242,3,TRUE,healthcare,"West Kelli, Romania",premium
+905,197,6/16/2024 21:09,feedback,59,2.99516558,1,FALSE,education,"Gomezberg, New Zealand",enterprise
+906,182,8/30/2024 11:49,feedback,75,1.499405452,2,TRUE,finance,"Monicaton, Isle of Man",premium
+907,136,9/11/2024 22:42,error,89,1.135081933,2,TRUE,finance,"Davilamouth, Netherlands Antilles",enterprise
+908,170,3/16/2024 9:04,error,94,1.728863739,5,TRUE,finance,"Kelseyhaven, Cote d'Ivoire",premium
+909,111,9/11/2024 4:22,query,36,2.461655628,5,FALSE,education,"Port Victorburgh, Western Sahara",free
+910,180,7/30/2024 7:46,query,14,2.023347384,1,FALSE,education,"Clairechester, Tunisia",enterprise
+911,163,3/12/2024 12:36,error,38,2.037682674,2,FALSE,education,"West Robert, Kazakhstan",free
+912,130,7/24/2024 11:54,feedback,20,1.931662246,4,FALSE,education,"Porterview, Guinea",premium
+913,199,9/3/2024 12:30,error,94,1.270514258,4,FALSE,finance,"Richardsonton, Vietnam",premium
+914,120,1/5/2024 7:41,error,78,1.37512626,1,TRUE,finance,"East Lorichester, Dominican Republic",enterprise
+915,116,5/24/2024 10:17,error,48,1.182300886,3,FALSE,healthcare,"Lake Robin, Christmas Island",free
+916,177,5/24/2024 14:58,error,18,1.795781193,5,TRUE,healthcare,"Port Josephport, Namibia",enterprise
+917,147,1/17/2024 13:45,feedback,57,1.575334937,1,TRUE,education,"Angelamouth, Morocco",free
+918,100,6/18/2024 22:29,feedback,86,1.121181067,4,FALSE,education,"Gregberg, Iraq",premium
+919,151,4/1/2024 16:49,query,15,2.231359184,1,FALSE,finance,"Port Barry, Saint Helena",enterprise
+920,129,7/10/2024 5:38,feedback,27,1.681529211,2,FALSE,healthcare,"North Davidville, Guinea-Bissau",free
+921,164,1/2/2024 2:13,feedback,89,1.897338253,2,FALSE,finance,"Timothyburgh, Mozambique",enterprise
+922,197,1/23/2024 12:32,feedback,57,2.617564263,2,FALSE,healthcare,"Tonyafurt, Brunei Darussalam",premium
+923,181,5/17/2024 5:45,error,74,1.700803332,2,FALSE,healthcare,"Kimberlyview, Turkmenistan",free
+924,119,6/9/2024 22:03,query,33,1.702148031,3,TRUE,education,"Angelaville, Equatorial Guinea",enterprise
+925,198,8/26/2024 5:13,feedback,48,2.467791783,1,FALSE,finance,"Stewartfurt, Trinidad and Tobago",free
+926,149,7/30/2024 1:03,error,18,2.426025071,5,FALSE,finance,"Port Alexanderstad, Malta",free
+927,105,6/22/2024 11:37,query,61,2.337002094,3,TRUE,education,"Haneyton, Lesotho",free
+928,196,2/16/2024 15:45,error,14,1.672509382,4,FALSE,finance,"Davismouth, Tokelau",enterprise
+929,135,2/28/2024 13:11,feedback,80,1.858254223,3,FALSE,healthcare,"East Peterside, Tunisia",premium
+930,182,3/14/2024 13:02,error,63,2.564301145,1,FALSE,finance,"West Sandra, Latvia",enterprise
+931,145,9/9/2024 16:20,query,79,1.105452033,5,FALSE,finance,"Johnville, Marshall Islands",free
+932,125,7/20/2024 1:33,feedback,53,1.279264058,5,FALSE,healthcare,"West David, Canada",enterprise
+933,197,2/17/2024 6:57,query,73,2.296922492,2,FALSE,healthcare,"Jenniferberg, Brunei Darussalam",free
+934,133,7/29/2024 16:35,error,88,2.145800387,4,TRUE,education,"Nguyenchester, Uzbekistan",free
+935,119,8/26/2024 9:27,feedback,17,2.323038521,1,FALSE,education,"Patelhaven, Egypt",enterprise
+936,167,3/19/2024 22:51,feedback,20,2.84712334,4,FALSE,education,"New Wendyport, Mozambique",premium
+937,191,2/6/2024 18:45,query,37,1.408717937,5,FALSE,finance,"Kimfort, Anguilla",enterprise
+938,111,5/20/2024 0:57,feedback,31,2.774479114,3,TRUE,healthcare,"Castroberg, Guadeloupe",enterprise
+939,143,8/10/2024 12:39,error,90,1.682909643,2,FALSE,finance,"Ryanshire, South Georgia and the South Sandwich Islands",enterprise
+940,186,4/1/2024 10:13,query,21,2.653223824,2,TRUE,finance,"Johnsonview, United Kingdom",premium
+941,196,7/10/2024 13:30,query,50,1.961159005,3,TRUE,education,"Lake Courtney, Saint Pierre and Miquelon",free
+942,163,6/3/2024 22:29,error,59,1.578986714,4,TRUE,healthcare,"Tapiastad, China",premium
+943,145,6/3/2024 21:17,query,75,1.266479168,1,TRUE,education,"Davidmouth, Rwanda",enterprise
+944,153,2/16/2024 15:24,feedback,99,1.538610889,2,TRUE,finance,"Bradleyshire, Senegal",enterprise
+945,106,6/1/2024 13:39,feedback,73,2.909029996,5,TRUE,healthcare,"North Dillonland, Macedonia",premium
+946,147,2/22/2024 4:14,feedback,72,2.196484402,1,FALSE,finance,"Hollymouth, Oman",premium
+947,131,2/15/2024 7:03,feedback,78,1.685890657,4,TRUE,education,"Christopherborough, Senegal",premium
+948,124,8/24/2024 11:14,error,53,1.386118552,5,FALSE,healthcare,"South Mary, Guyana",enterprise
+949,180,3/8/2024 11:15,query,57,2.965117213,3,FALSE,education,"Hopkinston, Antigua and Barbuda",premium
+950,195,1/24/2024 7:52,feedback,80,1.448483563,2,FALSE,education,"Porterland, Cyprus",premium
+951,134,4/5/2024 10:50,query,95,1.54466137,2,FALSE,education,"East Daniel, Sierra Leone",premium
+952,135,4/17/2024 20:42,query,35,2.806933109,3,TRUE,finance,"Lake Nicholas, Bolivia",free
+953,125,6/19/2024 16:21,error,24,2.593817921,4,FALSE,education,"Kyleport, Germany",enterprise
+954,160,7/31/2024 10:26,error,55,1.506887948,1,TRUE,finance,"East Phillip, Bangladesh",enterprise
+955,135,5/23/2024 13:18,error,64,2.178450185,1,FALSE,education,"Ericville, Palau",free
+956,130,9/9/2024 18:09,query,93,1.389784263,5,TRUE,education,"Gonzalestown, Monaco",premium
+957,102,8/14/2024 13:32,error,75,1.509921479,4,TRUE,healthcare,"Brianfurt, Tonga",free
+958,161,7/2/2024 2:21,feedback,49,1.39140248,1,TRUE,finance,"New Mark, Fiji",free
+959,154,4/18/2024 2:26,query,92,1.198325289,4,TRUE,healthcare,"Lake Stephanieberg, Luxembourg",free
+960,185,5/4/2024 18:01,error,34,1.827225051,2,FALSE,finance,"Kaylaview, Nauru",enterprise
+961,148,8/16/2024 1:35,error,45,2.393135308,2,FALSE,healthcare,"Lake Vincent, Brunei Darussalam",enterprise
+962,192,5/3/2024 3:10,query,40,1.29182429,5,FALSE,finance,"New Lynn, Micronesia",enterprise
+963,124,9/6/2024 8:28,query,39,2.307040033,1,TRUE,finance,"Greenmouth, Chile",premium
+964,104,3/20/2024 19:56,error,56,1.886011455,2,FALSE,education,"Port Brian, Sao Tome and Principe",enterprise
+965,165,5/18/2024 22:37,query,35,2.037804717,1,TRUE,healthcare,"Spearsfurt, Bahrain",free
+966,106,8/3/2024 10:30,query,29,2.805128513,4,FALSE,education,"Whitneyfurt, Vietnam",premium
+967,177,7/19/2024 5:32,error,54,1.158793575,4,FALSE,education,"Larrymouth, Vietnam",enterprise
+968,199,7/12/2024 3:12,error,95,1.367470454,2,TRUE,education,"Fullerland, Croatia",premium
+969,176,5/21/2024 11:45,feedback,38,2.018862,1,TRUE,healthcare,"East Mark, British Indian Ocean Territory (Chagos Archipelago)",enterprise
+970,139,2/9/2024 2:02,error,69,1.082263286,1,FALSE,education,"Anthonyburgh, Russian Federation",free
+971,117,1/16/2024 11:06,query,95,1.177451667,4,TRUE,finance,"Baileyview, Guyana",premium
+972,139,5/14/2024 13:56,error,78,2.448716806,4,FALSE,finance,"Seanborough, Saint Martin",enterprise
+973,139,2/12/2024 21:55,feedback,17,1.854693748,5,TRUE,education,"Holdenville, Croatia",enterprise
+974,140,1/14/2024 21:37,feedback,27,2.320639471,1,FALSE,finance,"East Carl, Myanmar",enterprise
+975,140,9/7/2024 21:27,feedback,92,1.773346374,5,FALSE,finance,"Patriciamouth, Philippines",free
+976,100,8/15/2024 4:01,error,25,2.660691841,5,TRUE,healthcare,"South Carlyview, Greenland",free
+977,190,1/22/2024 9:13,error,77,2.50665362,1,TRUE,healthcare,"Rebeccamouth, Albania",enterprise
+978,169,4/17/2024 6:31,feedback,67,1.948340686,5,TRUE,education,"Jenniferport, Togo",enterprise
+979,198,3/11/2024 2:21,error,13,2.568103062,3,TRUE,finance,"Lake Wesley, Saint Kitts and Nevis",free
+980,166,9/11/2024 21:43,feedback,45,1.12239405,1,TRUE,finance,"New Kristina, Kenya",premium
+981,128,3/18/2024 4:42,query,84,2.927774428,3,FALSE,healthcare,"West Mitchell, French Southern Territories",enterprise
+982,179,9/10/2024 13:39,query,78,2.416167183,4,TRUE,education,"South Aaron, Guyana",enterprise
+983,150,7/18/2024 9:50,error,53,2.665126269,5,FALSE,healthcare,"North Kennethshire, Western Sahara",free
+984,126,5/29/2024 22:27,query,38,1.279102192,4,TRUE,healthcare,"Brownville, Syrian Arab Republic",free
+985,185,9/12/2024 23:52,feedback,44,1.110363516,3,TRUE,education,"South Catherine, Suriname",free
+986,146,6/7/2024 8:44,query,59,1.501293112,5,TRUE,healthcare,"Kellyside, Fiji",premium
+987,199,7/28/2024 4:08,query,33,1.859992098,4,TRUE,healthcare,"New Michellemouth, Montenegro",premium
+988,184,2/10/2024 2:17,query,84,1.781212131,5,TRUE,healthcare,"South Jessicaland, Liechtenstein",premium
+989,142,5/30/2024 23:25,error,31,2.329329555,5,TRUE,healthcare,"Yorkburgh, Myanmar",enterprise
+990,164,3/4/2024 8:29,error,79,2.752228132,4,FALSE,finance,"Morganmouth, Turks and Caicos Islands",free
+991,150,2/11/2024 0:00,error,46,2.885465714,1,FALSE,finance,"Deannachester, Gibraltar",premium
+992,191,9/1/2024 14:10,error,74,2.885921838,3,FALSE,healthcare,"Wesleybury, France",free
+993,115,2/9/2024 3:18,feedback,89,1.448925394,4,FALSE,finance,"Martinport, Serbia",enterprise
+994,141,1/12/2024 3:48,error,55,2.61725783,4,FALSE,education,"Clarkfort, Taiwan",free
+995,171,4/19/2024 8:25,feedback,13,1.886922146,2,TRUE,finance,"Lake Seanfurt, Malaysia",free
+996,132,1/17/2024 0:18,error,42,1.552753068,4,TRUE,healthcare,"Kellytown, Maldives",free
+997,179,8/31/2024 17:24,query,66,2.095305314,5,TRUE,finance,"Smithfort, Congo",premium
+998,192,4/16/2024 1:45,error,51,2.579419975,5,FALSE,healthcare,"Patrickshire, Bouvet Island (Bouvetoya)",premium
+999,161,2/27/2024 13:50,error,80,2.345898606,2,FALSE,finance,"Thomaston, Ethiopia",free
+1000,102,5/26/2024 0:02,query,46,2.368317008,1,TRUE,education,"West Casey, Chile",premium
